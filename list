@@ -1,4 +1,4 @@
-Entertainment
+#EXTINF:-1, [color green] Entertainment
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,BBC One HD
@@ -185,7 +185,7 @@ http://87.113.132.148:8001/1:0:1:CFDF:909:2:11A0000:0:0:0:
 http://87.113.132.148:8001/1:0:1:D01C:909:2:11A0000:0:0:0:
 
 
-sport
+#EXTINF:-1, [color white]sport
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,Sky Sports 1
