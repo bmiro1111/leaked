@@ -190,16 +190,28 @@ http://87.113.132.148:8001/1:0:1:D01C:909:2:11A0000:0:0:0:
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,Sky Sports 1
 http://87.113.132.148:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,UK: SKY SPORT 1 HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2767.ts
 #EXTINF:-1,Sky Sports 2
 http://87.113.132.148:8001/1:0:1:1070:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,UK: SKY SPORT 2HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2766.ts
 #EXTINF:-1,Sky Sports 3
 http://87.113.132.148:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,UK: Sky Sport 3 HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2765.ts
 #EXTINF:-1,Sky Sports 4
 http://87.113.132.148:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,UK: Sky Sport 4 HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2764.ts
 #EXTINF:-1,Sky Sports 5
 http://87.113.132.148:8001/1:0:1:52E:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,UK: SKY SPORT 5 HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2763.ts
 #EXTINF:-1,Sky Sports F1
 http://87.113.132.148:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2762.ts
 #EXTINF:-1,Sky Sp NewsHQ
 http://87.113.132.148:8001/1:0:1:52D:7ED:2:11A0000:0:0:0:
 #EXTINF:-1,BT Sport 1
@@ -238,6 +250,8 @@ http://87.113.132.148:8001/1:0:1:C7B2:817:2:11A0000:0:0:0:
 http://87.113.132.148:8001/1:0:1:C7A8:817:2:11A0000:0:0:0:
 #EXTINF:-1,Premier Sports
 http://87.113.132.148:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
+#EXTINF:-1,UK: Premiere Sport
+http://cp.dmbshare.net:8000/live/ecu/ecu/2790.ts
 #EXTINF:-1,BT Sport 1 HD
 http://87.113.132.148:8001/1:0:19:C5E4:968:2:11A0000:0:0:0:
 #EXTINF:-1,BT Sport 2 HD
@@ -254,3 +268,164 @@ http://87.113.132.148:8001/1:0:19:C472:813:2:11A0000:0:0:0:
 http://87.113.132.148:8001/1:0:19:CFA2:83A:2:11A0000:0:0:0:
 #EXTINF:-1,Premier HD
 http://87.113.132.148:8001/1:0:19:CFA1:83A:2:11A0000:0:0:0:
+
+#EXTINF:-1 , [COLOR blue] --usa--[/COLOR] 
+#EXTM3U
+#EXTINF:-1,EPL astro 2
+http://cp.dmbshare.net:8000/live/ecu/ecu/4564.ts
+#EXTINF:-1,EPL astro 1
+http://cp.dmbshare.net:8000/live/ecu/ecu/4563.ts
+#EXTINF:-1,USA: womens entertainment
+http://cp.dmbshare.net:8000/live/ecu/ecu/4618.ts
+#EXTINF:-1,USA: Willow HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/4603.ts
+#EXTINF:-1,USA: VH1
+http://cp.dmbshare.net:8000/live/ecu/ecu/4616.ts
+#EXTINF:-1,USA: USA Network
+http://cp.dmbshare.net:8000/live/ecu/ecu/4605.ts
+#EXTINF:-1,USA: TSN 5
+http://cp.dmbshare.net:8000/live/ecu/ecu/4598.ts
+#EXTINF:-1,USA: TSN 4
+http://cp.dmbshare.net:8000/live/ecu/ecu/4597.ts
+#EXTINF:-1,USA: TSN 3
+http://cp.dmbshare.net:8000/live/ecu/ecu/4596.ts
+#EXTINF:-1,USA: TSN 2
+http://cp.dmbshare.net:8000/live/ecu/ecu/4595.ts
+#EXTINF:-1,USA: TSN 1
+http://cp.dmbshare.net:8000/live/ecu/ecu/4594.ts
+#EXTINF:-1,USA: trutv
+http://cp.dmbshare.net:8000/live/ecu/ecu/4619.ts
+#EXTINF:-1,USA: TNT
+http://cp.dmbshare.net:8000/live/ecu/ecu/4571.ts
+#EXTINF:-1,USA: Syfy USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4593.ts
+#EXTINF:-1,USA: Starz
+http://cp.dmbshare.net:8000/live/ecu/ecu/4599.ts
+#EXTINF:-1,USA: SportsNet World
+http://cp.dmbshare.net:8000/live/ecu/ecu/4592.ts
+#EXTINF:-1,USA: SportsNet Ontario
+http://cp.dmbshare.net:8000/live/ecu/ecu/4591.ts
+#EXTINF:-1,USA: SportsNet ONE
+http://cp.dmbshare.net:8000/live/ecu/ecu/4590.ts
+#EXTINF:-1,USA: Spike USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4579.ts
+#EXTINF:-1,USA: Showtime USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4581.ts
+#EXTINF:-1,USA: sec network
+http://cp.dmbshare.net:8000/live/ecu/ecu/4615.ts
+#EXTINF:-1,USA: OWN
+http://cp.dmbshare.net:8000/live/ecu/ecu/4620.ts
+#EXTINF:-1,USA: Nick Jr
+http://cp.dmbshare.net:8000/live/ecu/ecu/4617.ts
+#EXTINF:-1,USA: NFL
+http://cp.dmbshare.net:8000/live/ecu/ecu/4589.ts
+#EXTINF:-1,USA: NBC USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4578.ts
+#EXTINF:-1,USA: NBC Sports
+http://cp.dmbshare.net:8000/live/ecu/ecu/4587.ts
+#EXTINF:-1,USA: NBC Golf
+http://cp.dmbshare.net:8000/live/ecu/ecu/4586.ts
+#EXTINF:-1,USA: NBA USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4577.ts
+#EXTINF:-1,USA: MTV
+http://cp.dmbshare.net:8000/live/ecu/ecu/4613.ts
+#EXTINF:-1,USA: MLB
+http://cp.dmbshare.net:8000/live/ecu/ecu/4621.ts
+#EXTINF:-1,USA: History
+http://cp.dmbshare.net:8000/live/ecu/ecu/4573.ts
+#EXTINF:-1,USA: HGTV
+http://cp.dmbshare.net:8000/live/ecu/ecu/4570.ts
+#EXTINF:-1,USA: Hallmark
+http://cp.dmbshare.net:8000/live/ecu/ecu/4606.ts
+#EXTINF:-1,USA: H2
+http://cp.dmbshare.net:8000/live/ecu/ecu/4572.ts
+#EXTINF:-1,USA: Fox Sports 2
+http://cp.dmbshare.net:8000/live/ecu/ecu/4585.ts
+#EXTINF:-1,USA: Fox Sports 1
+http://cp.dmbshare.net:8000/live/ecu/ecu/4584.ts
+#EXTINF:-1,USA: Fox 1
+http://cp.dmbshare.net:8000/live/ecu/ecu/4607.ts
+#EXTINF:-1,USA: food network
+http://cp.dmbshare.net:8000/live/ecu/ecu/4614.ts
+#EXTINF:-1,USA: Fight Network
+http://cp.dmbshare.net:8000/live/ecu/ecu/4580.ts
+#EXTINF:-1,USA: ESPN Usa
+http://cp.dmbshare.net:8000/live/ecu/ecu/4604.ts
+#EXTINF:-1,USA: ESPN U
+http://cp.dmbshare.net:8000/live/ecu/ecu/4574.ts
+#EXTINF:-1,USA: ESPN News
+http://cp.dmbshare.net:8000/live/ecu/ecu/4612.ts
+#EXTINF:-1,USA: ESPN 2
+http://cp.dmbshare.net:8000/live/ecu/ecu/4583.ts
+#EXTINF:-1,USA: Destination America
+http://cp.dmbshare.net:8000/live/ecu/ecu/4608.ts
+#EXTINF:-1,USA: Cinemax East
+http://cp.dmbshare.net:8000/live/ecu/ecu/4600.ts
+#EXTINF:-1,USA: CBS Sport
+http://cp.dmbshare.net:8000/live/ecu/ecu/4575.ts
+#EXTINF:-1,USA: CBS
+http://cp.dmbshare.net:8000/live/ecu/ecu/4576.ts
+#EXTINF:-1,USA: Bravo
+http://cp.dmbshare.net:8000/live/ecu/ecu/4610.ts
+#EXTINF:-1,USA: Bet
+http://cp.dmbshare.net:8000/live/ecu/ecu/4609.ts
+#EXTINF:-1,USA: Bein USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4582.ts
+#EXTINF:-1,USA: AXS
+http://cp.dmbshare.net:8000/live/ecu/ecu/4588.ts
+#EXTINF:-1,USA: AMC USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4602.ts
+#EXTINF:-1,USA: ABC USA
+http://cp.dmbshare.net:8000/live/ecu/ecu/4601.ts
+#EXTINF:-1,USA: ABC Family
+http://cp.dmbshare.net:8000/live/ecu/ecu/4622.ts
+#EXTINF:-1,USA: A & E
+http://cp.dmbshare.net:8000/live/ecu/ecu/4611.ts
+
+
+#EXTINF:-1 , [COLOR yellow] --movies--[/COLOR] 
+#EXTINF:-1,UK: Sky Disney
+http://cp.dmbshare.net:8000/live/ecu/ecu/2782.ts
+#EXTINF:-1,UK: Sky Family
+http://cp.dmbshare.net:8000/live/ecu/ecu/2781.ts
+#EXTINF:-1,UK: Sky Living
+http://cp.dmbshare.net:8000/live/ecu/ecu/2780.ts
+#EXTINF:-1,UK: Sky MOVIE Drama
+http://cp.dmbshare.net:8000/live/ecu/ecu/2779.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2778.ts
+#EXTINF:-1,UK: Sky Movies Disney HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2744.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2777.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2743.ts
+#EXTINF:-1,UK: Sky Movies Modern Great
+http://cp.dmbshare.net:8000/live/ecu/ecu/2776.ts
+#EXTINF:-1,UK: Sky Movies Modern Great HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2742.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2775.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2774.ts
+#EXTINF:-1,UK: Sky Movies ShowCase
+http://cp.dmbshare.net:8000/live/ecu/ecu/2741.ts
+#EXTINF:-1,UK: Sky Movies Thriller HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2779.ts
+#EXTINF:-1,UK: Sky Movies Modern Great
+http://cp.dmbshare.net:8000/live/ecu/ecu/2776.ts
+
+#EXTINF:-1 , [COLOR red] --kids--[/COLOR] 
+#EXTINF:-1,UK: Nick
+http://cp.dmbshare.net:8000/live/ecu/ecu/2791.ts
+#EXTINF:-1,UK: Nick JR
+http://cp.dmbshare.net:8000/live/ecu/ecu/2748.ts
+#EXTINF:-1,UK: Tiny Pop
+http://cp.dmbshare.net:8000/live/ecu/ecu/2758.ts
+#EXTINF:-1,UK: Sky pop
+http://cp.dmbshare.net:8000/live/ecu/ecu/2770.ts
+#EXTINF:-1,UK: Sky Disney
+http://cp.dmbshare.net:8000/live/ecu/ecu/2782.ts
+#EXTINF:-1,UK: Sky Movies Disney HD
+http://cp.dmbshare.net:8000/live/ecu/ecu/2744.ts
+
