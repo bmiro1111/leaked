@@ -60,6 +60,8 @@ http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2167.ts
 #EXTM3U 
 #EXTINF:-1,UK: BT Sport ESPN
 http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2201.ts
+#EXTINF:-1,[COLOR RED] BT Sport ESPN HD
+http://globalstream.noip.us:8000/live/test/test/768.ts
 #EXTINF:-1,UK: BT Sport Extra
 http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2151.ts
 #EXTINF:-1,UK: BT SPORT EUROPE HD
