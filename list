@@ -1,431 +1,155 @@
 #EXTINF:-1 , [COLOR green] --Entertainment--[/COLOR] 
 #EXTM3U 
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,BBC One HD
-http://87.113.132.148:8001/1:0:19:1B1D:802:2:11A0000:0:0:0:
-#EXTINF:-1,BBC Two HD
-http://87.113.132.148:8001/1:0:19:1B1C:802:2:11A0000:0:0:0:
-#EXTINF:-1,ITV HD
-http://87.113.132.148:8001/1:0:19:5208:812:2:11A0000:0:0:0:
-#EXTINF:-1,Channel 4 HD
-http://87.113.132.148:8001/1:0:19:52D0:814:2:11A0000:0:0:0:
-#EXTINF:-1,Channel 5
-http://87.113.132.148:8001/1:0:1:1E15:809:2:11A0000:0:0:0:
-#EXTINF:-1,Sky1
-http://87.113.132.148:8001/1:0:1:125D:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,Sky1 +1
-http://87.113.132.148:8001/1:0:1:57B:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,Sky2
-http://87.113.132.148:8001/1:0:1:164D:7DB:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Atlantic
-http://87.113.132.148:8001/1:0:1:164F:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Atlantic+1
-http://87.113.132.148:8001/1:0:1:585:7DB:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Living
-http://87.113.132.148:8001/1:0:1:1653:7EA:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Living+1
-http://87.113.132.148:8001/1:0:1:1650:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,Real Lives
-http://87.113.132.148:8001/1:0:1:178E:7E9:2:11A0000:0:0:0:
-#EXTINF:-1,Real Lives+1
-http://87.113.132.148:8001/1:0:1:1789:7D7:2:11A0000:0:0:0:
-#EXTINF:-1,Lifetime
-http://87.113.132.148:8001/1:0:1:1654:7EA:2:11A0000:0:0:0:
-#EXTINF:-1,Lifetime+1
-http://87.113.132.148:8001/1:0:1:D115:90C:2:11A0000:0:0:0:
-#EXTINF:-1,AMC from BT
-http://87.113.132.148:8001/1:0:1:C48B:811:2:11A0000:0:0:0:
-#EXTINF:-1,ITV +1
-http://87.113.132.148:8001/1:0:1:27AB:805:2:11A0000:0:0:0:
-#EXTINF:-1,ITV2
-http://87.113.132.148:8001/1:0:1:2756:7FC:2:11A0000:0:0:0:
-#EXTINF:-1,ITV2+1
-http://87.113.132.148:8001/1:0:1:27B5:805:2:11A0000:0:0:0:
-#EXTINF:-1,ITV3
-http://87.113.132.148:8001/1:0:1:2814:806:2:11A0000:0:0:0:
-#EXTINF:-1,ITV3+1
-http://87.113.132.148:8001/1:0:1:2815:806:2:11A0000:0:0:0:
-#EXTINF:-1,ITV4
-http://87.113.132.148:8001/1:0:1:2758:7FC:2:11A0000:0:0:0:
-#EXTINF:-1,ITV4+1
-http://87.113.132.148:8001/1:0:1:2759:7FC:2:11A0000:0:0:0:
-#EXTINF:-1,ITV Encore
-http://87.113.132.148:8001/1:0:1:2797:805:2:11A0000:0:0:0:
-#EXTINF:-1,ITV Encore+1
-http://87.113.132.148:8001/1:0:1:2819:806:2:11A0000:0:0:0:
-#EXTINF:-1,ITVBe
-http://87.113.132.148:8001/1:0:1:275B:7FC:2:11A0000:0:0:0:
-#EXTINF:-1,ITVBe+1
-http://87.113.132.148:8001/1:0:1:279B:805:2:11A0000:0:0:0:
-#EXTINF:-1,E4
-http://87.113.132.148:8001/1:0:1:2071:7FA:2:11A0000:0:0:0:
-#EXTINF:-1,E4+1
-http://87.113.132.148:8001/1:0:1:206C:7FA:2:11A0000:0:0:0:
-#EXTINF:-1,BBC Three HD
-http://87.113.132.148:8001/1:0:19:1B27:802:2:11A0000:0:0:0:
-#EXTINF:-1,BBC Four HD
-http://87.113.132.148:8001/1:0:19:22E3:80D:2:11A0000:0:0:0:
-#EXTINF:-1,Pick
-http://87.113.132.148:8001/1:0:1:128F:7EA:2:11A0000:0:0:0:
-#EXTINF:-1,Pick+1
-http://87.113.132.148:8001/1:0:1:13F3:7EA:2:11A0000:0:0:0:
-#EXTINF:-1,Channel 5+1
-http://87.113.132.148:8001/1:0:1:1E28:809:2:11A0000:0:0:0:
-#EXTINF:-1,Channel 5+24
-http://87.113.132.148:8001/1:0:1:1E24:809:2:11A0000:0:0:0:
-#EXTINF:-1,5 USA
-http://87.113.132.148:8001/1:0:1:1E1E:809:2:11A0000:0:0:0:
-#EXTINF:-1,5 USA +1
-http://87.113.132.148:8001/1:0:1:1E1F:809:2:11A0000:0:0:0:
-#EXTINF:-1,5STAR
-http://87.113.132.148:8001/1:0:1:1E23:809:2:11A0000:0:0:0:
-#EXTINF:-1,5STAR +1
-http://87.113.132.148:8001/1:0:1:1E25:809:2:11A0000:0:0:0:
-#EXTINF:-1,Spike
-http://87.113.132.148:8001/1:0:1:1E32:809:2:11A0000:0:0:0:
-#EXTINF:-1,Syfy
-http://87.113.132.148:8001/1:0:1:CC1A:83D:2:11A0000:0:0:0:
-#EXTINF:-1,Syfy +1
-http://87.113.132.148:8001/1:0:1:CC38:83D:2:11A0000:0:0:0:
-#EXTINF:-1,FOX
-http://87.113.132.148:8001/1:0:1:158B:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,FOX+
-http://87.113.132.148:8001/1:0:1:151A:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,Universal
-http://87.113.132.148:8001/1:0:1:CC1F:83D:2:11A0000:0:0:0:
-#EXTINF:-1,Universal+1
-http://87.113.132.148:8001/1:0:1:CBFC:83D:2:11A0000:0:0:0:
-#EXTINF:-1,Channel 4 +1
-http://87.113.132.148:8001/1:0:1:2077:7FA:2:11A0000:0:0:0:
-#EXTINF:-1,More4
-http://87.113.132.148:8001/1:0:1:2094:7FA:2:11A0000:0:0:0:
-#EXTINF:-1,More4 +1
-http://87.113.132.148:8001/1:0:1:240E:7F9:2:11A0000:0:0:0:
-#EXTINF:-1,4seven
-http://87.113.132.148:8001/1:0:1:5302:814:2:11A0000:0:0:0:
-#EXTINF:-1,ComedyCentral
-http://87.113.132.148:8001/1:0:1:1798:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,ComedyCent+1
-http://87.113.132.148:8001/1:0:1:C78B:815:2:11A0000:0:0:0:
-#EXTINF:-1,ComedyXtra
-http://87.113.132.148:8001/1:0:1:C78E:815:2:11A0000:0:0:0:
-#EXTINF:-1,ComedyXtra+1
-http://87.113.132.148:8001/1:0:1:C78F:815:2:11A0000:0:0:0:
-#EXTINF:-1,CBS Action
-http://87.113.132.148:8001/1:0:1:D1CE:841:2:11A0000:0:0:0:
-#EXTINF:-1,CBS Drama
-http://87.113.132.148:8001/1:0:1:C6D7:840:2:11A0000:0:0:0:
-#EXTINF:-1,CBS Reality
-http://87.113.132.148:8001/1:0:1:CD19:844:2:11A0000:0:0:0:
-#EXTINF:-1,CBS Reality+1
-http://87.113.132.148:8001/1:0:1:D7B1:840:2:11A0000:0:0:0:
-#EXTINF:-1,horror channel
-http://87.113.132.148:8001/1:0:1:CB89:83B:2:11A0000:0:0:0:
-#EXTINF:-1,horror ch+1
-http://87.113.132.148:8001/1:0:1:D7B2:840:2:11A0000:0:0:0:
-#EXTINF:-1,True Ent
-http://87.113.132.148:8001/1:0:1:D07F:83E:2:11A0000:0:0:0:
-#EXTINF:-1,True Drama
-http://87.113.132.148:8001/1:0:1:D084:83E:2:11A0000:0:0:0:
-#EXTINF:-1,tru TV
-http://87.113.132.148:8001/1:0:1:D355:830:2:11A0000:0:0:0:
-#EXTINF:-1,tru TV+1
-http://87.113.132.148:8001/1:0:1:CD2D:844:2:11A0000:0:0:0:
-#EXTINF:-1,ShowBiz TV
-http://87.113.132.148:8001/1:0:1:D1E2:841:2:11A0000:0:0:0:
-#EXTINF:-1,Sony Channel
-http://87.113.132.148:8001/1:0:1:D361:830:2:11A0000:0:0:0:
-#EXTINF:-1,Sony Chnl +1
-http://87.113.132.148:8001/1:0:1:D017:909:2:11A0000:0:0:0:
-#EXTINF:-1,W
-http://87.113.132.148:8001/1:0:1:1978:7E6:2:11A0000:0:0:0:
-#EXTINF:-1,W +1
-http://87.113.132.148:8001/1:0:1:1DBF:82D:2:11A0000:0:0:0:
-#EXTINF:-1,GOLD
-http://87.113.132.148:8001/1:0:1:1968:7E6:2:11A0000:0:0:0:
-#EXTINF:-1,GOLD +1
-http://87.113.132.148:8001/1:0:1:1DB5:82D:2:11A0000:0:0:0:
-#EXTINF:-1,Dave
-http://87.113.132.148:8001/1:0:1:196A:7E6:2:11A0000:0:0:0:
-#EXTINF:-1,Dave ja vu
-http://87.113.132.148:8001/1:0:1:1DC8:82D:2:11A0000:0:0:0:
-#EXTINF:-1,Drama
-http://87.113.132.148:8001/1:0:1:197A:7E6:2:11A0000:0:0:0:
-#EXTINF:-1,alibi
-http://87.113.132.148:8001/1:0:1:1979:7E6:2:11A0000:0:0:0:
-#EXTINF:-1,alibi +1
-http://87.113.132.148:8001/1:0:1:1DCE:82D:2:11A0000:0:0:0:
-#EXTINF:-1,Challenge
-http://87.113.132.148:8001/1:0:1:178F:7D7:2:11A0000:0:0:0:
-#EXTINF:-1,Challenge+1
-http://87.113.132.148:8001/1:0:1:178A:7D7:2:11A0000:0:0:0:
-#EXTINF:-1,DMAX
-http://87.113.132.148:8001/1:0:1:CCBF:831:2:11A0000:0:0:0:
-#EXTINF:-1,DMAX+1
-http://87.113.132.148:8001/1:0:1:CCC4:831:2:11A0000:0:0:0:
-#EXTINF:-1,London Live
-http://87.113.132.148:8001/1:0:1:C6CC:82A:2:11A0000:0:0:0:
-#EXTINF:-1,YourTV
-http://87.113.132.148:8001/1:0:1:CD3C:844:2:11A0000:0:0:0:
-#EXTINF:-1,QUEST
-http://87.113.132.148:8001/1:0:1:1843:7D9:2:11A0000:0:0:0:
-#EXTINF:-1,QUEST+1
-http://87.113.132.148:8001/1:0:1:CCCE:831:2:11A0000:0:0:0:
-#EXTINF:-1,PBS America
-http://87.113.132.148:8001/1:0:1:CC01:83D:2:11A0000:0:0:0:
-#EXTINF:-1,My Channel
-http://87.113.132.148:8001/1:0:1:D74E:82F:2:11A0000:0:0:0:
-#EXTINF:-1,BEN
-http://87.113.132.148:8001/1:0:1:D3CF:829:2:11A0000:0:0:0:
-#EXTINF:-1,BET:BlackEntTv
-http://87.113.132.148:8001/1:0:1:C789:815:2:11A0000:0:0:0:
-#EXTINF:-1,E!
-http://87.113.132.148:8001/1:0:1:CFDF:909:2:11A0000:0:0:0:
-#EXTINF:-1,E! +1
-http://87.113.132.148:8001/1:0:1:D01C:909:2:11A0000:0:0:0:
+#EXTINF:-1,UK: Movies 4 Men
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2125.ts
+#EXTINF:-1,UK: More 4
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2186.ts
+#EXTINF:-1,UK: Living UK
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2126.ts
+#EXTINF:-1,UK: LIVERPOOL FC
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2164.ts
+#EXTINF:-1,UK: ITV 4
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2225.ts
+#EXTINF:-1,UK: ITV 3
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2226.ts
+#EXTINF:-1,UK: ITV 2
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2227.ts
+#EXTINF:-1,UK: ITV 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2228.ts
+#EXTINF:-1,UK: ITV
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2229.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2187.ts
+#EXTINF:-1,UK: Horror Channel
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2154.ts
+#EXTINF:-1,UK: HISTORY CHANNEL
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2188.ts
+#EXTINF:-1,UK: GOLD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2165.ts
+#EXTINF:-1,UK: Food Network
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2153.ts
+#EXTINF:-1,UK: Five UK
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2127.ts
+#EXTINF:-1,UK: Five
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2189.ts
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/585.ts
+#EXTINF:-1,UK: Zee Cinema
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2155.ts
+#EXTINF:-1,UK: YESTERDAY
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2223.ts
+#EXTINF:-1,UK: Vivo 3
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2104.ts
+#EXTINF:-1,UK: Vivo 2
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2105.ts
+#EXTINF:-1,UK: Vivo 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2106.ts
+#EXTINF:-1,UK: VH1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2156.ts
+#EXTINF:-1,UK: Travel
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2108.ts
+#EXTINF:-1,UK: TCM
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2210.ts
+#EXTINF:-1,UK: SyFy
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2109.ts
+#EXTINF:-1,UK: Sky Two
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2167.ts
+
 
 
 #EXTINF:-1 , [COLOR blue] --sport--[/COLOR] 
 #EXTM3U 
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1,Sky Sports 1
-http://87.113.132.148:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,UK: SKY SPORT 1 HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2767.ts
-#EXTINF:-1,Sky Sports 2
-http://87.113.132.148:8001/1:0:1:1070:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,UK: SKY SPORT 2HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2766.ts
-#EXTINF:-1,Sky Sports 3
-http://87.113.132.148:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,UK: Sky Sport 3 HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2765.ts
-#EXTINF:-1,Sky Sports 4
-http://87.113.132.148:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,UK: Sky Sport 4 HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2764.ts
-#EXTINF:-1,Sky Sports 5
-http://87.113.132.148:8001/1:0:1:52E:7DB:2:11A0000:0:0:0:
-#EXTINF:-1,UK: SKY SPORT 5 HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2763.ts
-#EXTINF:-1,Sky Sports F1
-http://87.113.132.148:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,UK: Sky Sport F1 HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2762.ts
-#EXTINF:-1,Sky Sp NewsHQ
-http://87.113.132.148:8001/1:0:1:52D:7ED:2:11A0000:0:0:0:
-#EXTINF:-1,BT Sport 1
-http://87.113.132.148:8001/1:0:1:C4BE:811:2:11A0000:0:0:0:
-#EXTINF:-1,BT Sport 2
-http://87.113.132.148:8001/1:0:1:C4C7:811:2:11A0000:0:0:0:
-#EXTINF:-1,BT Sport Europe
-http://87.113.132.148:8001/1:0:1:C4A5:811:2:11A0000:0:0:0:
-#EXTINF:-1,BT Sport//ESPN
-http://87.113.132.148:8001/1:0:1:C4CD:811:2:11A0000:0:0:0:
-#EXTINF:-1,Eurosport 1
-http://87.113.132.148:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,Eurosport 2
-http://87.113.132.148:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,BoxNation
-http://87.113.132.148:8001/1:0:1:D368:830:2:11A0000:0:0:0:
-#EXTINF:-1,MOTORS TV UK
-http://87.113.132.148:8001/1:0:1:C495:811:2:11A0000:0:0:0:
-#EXTINF:-1,Racing UK
-http://87.113.132.148:8001/1:0:1:C7B0:817:2:11A0000:0:0:0:
-#EXTINF:-1,At The Races
-http://87.113.132.148:8001/1:0:1:12C4:7E9:2:11A0000:0:0:0:
-#EXTINF:-1,Bike
-http://87.113.132.148:8001/1:0:1:CC42:83D:2:11A0000:0:0:0:
-#EXTINF:-1,MUTV
-http://87.113.132.148:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
-#EXTINF:-1,Chelsea TV
-http://87.113.132.148:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
-#EXTINF:-1,Notts TV
-http://87.113.132.148:8001/1:0:1:D3C6:829:2:11A0000:0:0:0:
-#EXTINF:-1,LFCTV
-http://87.113.132.148:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
-#EXTINF:-1,Setanta Ireland
-http://87.113.132.148:8001/1:0:1:C7B2:817:2:11A0000:0:0:0:
-#EXTINF:-1,Setanta Sports1
-http://87.113.132.148:8001/1:0:1:C7A8:817:2:11A0000:0:0:0:
-#EXTINF:-1,Premier Sports
-http://87.113.132.148:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
-#EXTINF:-1,UK: Premiere Sport
-http://cp.dmbshare.net:8000/live/ecu/ecu/2790.ts
-#EXTINF:-1,BT Sport 1 HD
-http://87.113.132.148:8001/1:0:19:C5E4:968:2:11A0000:0:0:0:
-#EXTINF:-1,BT Sport 2 HD
-http://87.113.132.148:8001/1:0:19:C5E9:968:2:11A0000:0:0:0:
-#EXTINF:-1,BT Sport EurHD
-http://87.113.132.148:8001/1:0:19:C5F8:968:2:11A0000:0:0:0:
-#EXTINF:-1,BTSpt//ESPNHD
-http://87.113.132.148:8001/1:0:19:D223:841:2:11A0000:0:0:0:
-#EXTINF:-1,BoxNation HD
-http://87.113.132.148:8001/1:0:19:1BBC:7E2:2:11A0000:0:0:0:
-#EXTINF:-1,50290
-http://87.113.132.148:8001/1:0:19:C472:813:2:11A0000:0:0:0:
-#EXTINF:-1,Setanta HD
-http://87.113.132.148:8001/1:0:19:CFA2:83A:2:11A0000:0:0:0:
-#EXTINF:-1,Premier HD
-http://87.113.132.148:8001/1:0:19:CFA1:83A:2:11A0000:0:0:0:
+#EXTINF:-1,UK: BT Sport ESPN
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2201.ts
+#EXTINF:-1,UK: BT Sport Extra
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2151.ts
+#EXTINF:-1,UK: BT SPORT EUROPE HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2200.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2152.ts
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2222.ts
+#EXTINF:-1,UK: Box Nation  HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2202.ts
+#EXTINF:-1,UK: BT Sport 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/595.ts
+#EXTINF:-1,UK: BT Sport 2
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/594.ts
+#EXTINF:-1,UK: Sky Sport F1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/607.ts
+#EXTINF:-1,UK: Sky Sport 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/602.ts
+#EXTINF:-1,UK: Sky Sport 2
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/603.ts
+#EXTINF:-1,UK: Sky Sport 3
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/604.ts
+#EXTINF:-1,UK: Sky Sport 4
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/605.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/606.ts
 
-#EXTINF:-1 , [COLOR blue] --usa--[/COLOR] 
+#EXTINF:-1 , [COLOR blue] --discovery--[/COLOR] 
 #EXTM3U
-#EXTINF:-1,EPL astro 2
-http://cp.dmbshare.net:8000/live/ecu/ecu/4564.ts
-#EXTINF:-1,EPL astro 1
-http://cp.dmbshare.net:8000/live/ecu/ecu/4563.ts
-#EXTINF:-1,USA: womens entertainment
-http://cp.dmbshare.net:8000/live/ecu/ecu/4618.ts
-#EXTINF:-1,USA: Willow HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/4603.ts
-#EXTINF:-1,USA: VH1
-http://cp.dmbshare.net:8000/live/ecu/ecu/4616.ts
-#EXTINF:-1,USA: USA Network
-http://cp.dmbshare.net:8000/live/ecu/ecu/4605.ts
-#EXTINF:-1,USA: TSN 5
-http://cp.dmbshare.net:8000/live/ecu/ecu/4598.ts
-#EXTINF:-1,USA: TSN 4
-http://cp.dmbshare.net:8000/live/ecu/ecu/4597.ts
-#EXTINF:-1,USA: TSN 3
-http://cp.dmbshare.net:8000/live/ecu/ecu/4596.ts
-#EXTINF:-1,USA: TSN 2
-http://cp.dmbshare.net:8000/live/ecu/ecu/4595.ts
-#EXTINF:-1,USA: TSN 1
-http://cp.dmbshare.net:8000/live/ecu/ecu/4594.ts
-#EXTINF:-1,USA: trutv
-http://cp.dmbshare.net:8000/live/ecu/ecu/4619.ts
-#EXTINF:-1,USA: TNT
-http://cp.dmbshare.net:8000/live/ecu/ecu/4571.ts
-#EXTINF:-1,USA: Syfy USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4593.ts
-#EXTINF:-1,USA: Starz
-http://cp.dmbshare.net:8000/live/ecu/ecu/4599.ts
-#EXTINF:-1,USA: SportsNet World
-http://cp.dmbshare.net:8000/live/ecu/ecu/4592.ts
-#EXTINF:-1,USA: SportsNet Ontario
-http://cp.dmbshare.net:8000/live/ecu/ecu/4591.ts
-#EXTINF:-1,USA: SportsNet ONE
-http://cp.dmbshare.net:8000/live/ecu/ecu/4590.ts
-#EXTINF:-1,USA: Spike USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4579.ts
-#EXTINF:-1,USA: Showtime USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4581.ts
-#EXTINF:-1,USA: sec network
-http://cp.dmbshare.net:8000/live/ecu/ecu/4615.ts
-#EXTINF:-1,USA: OWN
-http://cp.dmbshare.net:8000/live/ecu/ecu/4620.ts
-#EXTINF:-1,USA: Nick Jr
-http://cp.dmbshare.net:8000/live/ecu/ecu/4617.ts
-#EXTINF:-1,USA: NFL
-http://cp.dmbshare.net:8000/live/ecu/ecu/4589.ts
-#EXTINF:-1,USA: NBC USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4578.ts
-#EXTINF:-1,USA: NBC Sports
-http://cp.dmbshare.net:8000/live/ecu/ecu/4587.ts
-#EXTINF:-1,USA: NBC Golf
-http://cp.dmbshare.net:8000/live/ecu/ecu/4586.ts
-#EXTINF:-1,USA: NBA USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4577.ts
-#EXTINF:-1,USA: MTV
-http://cp.dmbshare.net:8000/live/ecu/ecu/4613.ts
-#EXTINF:-1,USA: MLB
-http://cp.dmbshare.net:8000/live/ecu/ecu/4621.ts
-#EXTINF:-1,USA: History
-http://cp.dmbshare.net:8000/live/ecu/ecu/4573.ts
-#EXTINF:-1,USA: HGTV
-http://cp.dmbshare.net:8000/live/ecu/ecu/4570.ts
-#EXTINF:-1,USA: Hallmark
-http://cp.dmbshare.net:8000/live/ecu/ecu/4606.ts
-#EXTINF:-1,USA: H2
-http://cp.dmbshare.net:8000/live/ecu/ecu/4572.ts
-#EXTINF:-1,USA: Fox Sports 2
-http://cp.dmbshare.net:8000/live/ecu/ecu/4585.ts
-#EXTINF:-1,USA: Fox Sports 1
-http://cp.dmbshare.net:8000/live/ecu/ecu/4584.ts
-#EXTINF:-1,USA: Fox 1
-http://cp.dmbshare.net:8000/live/ecu/ecu/4607.ts
-#EXTINF:-1,USA: food network
-http://cp.dmbshare.net:8000/live/ecu/ecu/4614.ts
-#EXTINF:-1,USA: Fight Network
-http://cp.dmbshare.net:8000/live/ecu/ecu/4580.ts
-#EXTINF:-1,USA: ESPN Usa
-http://cp.dmbshare.net:8000/live/ecu/ecu/4604.ts
-#EXTINF:-1,USA: ESPN U
-http://cp.dmbshare.net:8000/live/ecu/ecu/4574.ts
-#EXTINF:-1,USA: ESPN News
-http://cp.dmbshare.net:8000/live/ecu/ecu/4612.ts
-#EXTINF:-1,USA: ESPN 2
-http://cp.dmbshare.net:8000/live/ecu/ecu/4583.ts
-#EXTINF:-1,USA: Destination America
-http://cp.dmbshare.net:8000/live/ecu/ecu/4608.ts
-#EXTINF:-1,USA: Cinemax East
-http://cp.dmbshare.net:8000/live/ecu/ecu/4600.ts
-#EXTINF:-1,USA: CBS Sport
-http://cp.dmbshare.net:8000/live/ecu/ecu/4575.ts
-#EXTINF:-1,USA: CBS
-http://cp.dmbshare.net:8000/live/ecu/ecu/4576.ts
-#EXTINF:-1,USA: Bravo
-http://cp.dmbshare.net:8000/live/ecu/ecu/4610.ts
-#EXTINF:-1,USA: Bet
-http://cp.dmbshare.net:8000/live/ecu/ecu/4609.ts
-#EXTINF:-1,USA: Bein USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4582.ts
-#EXTINF:-1,USA: AXS
-http://cp.dmbshare.net:8000/live/ecu/ecu/4588.ts
-#EXTINF:-1,USA: AMC USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4602.ts
-#EXTINF:-1,USA: ABC USA
-http://cp.dmbshare.net:8000/live/ecu/ecu/4601.ts
-#EXTINF:-1,USA: ABC Family
-http://cp.dmbshare.net:8000/live/ecu/ecu/4622.ts
-#EXTINF:-1,USA: A & E
-http://cp.dmbshare.net:8000/live/ecu/ecu/4611.ts
+#EXTINF:-1,UK-National-Geographic
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/405.ts
+#EXTINF:-1,UK-Nat-Geo-Wild
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/406.ts
+#EXTINF:-1,UK-Discovery-Home-&Health
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/420.ts
+#EXTINF:-1,UK-Discovery-History
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/421.ts
+#EXTINF:-1,UK-Discovery
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/422.ts
+
+
 
 
 #EXTINF:-1 , [COLOR yellow] --movies--[/COLOR] 
-#EXTINF:-1,UK: Sky Disney
-http://cp.dmbshare.net:8000/live/ecu/ecu/2782.ts
-#EXTINF:-1,UK: Sky Family
-http://cp.dmbshare.net:8000/live/ecu/ecu/2781.ts
-#EXTINF:-1,UK: Sky Living
-http://cp.dmbshare.net:8000/live/ecu/ecu/2780.ts
-#EXTINF:-1,UK: Sky MOVIE Drama
-http://cp.dmbshare.net:8000/live/ecu/ecu/2779.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2778.ts
-#EXTINF:-1,UK: Sky Movies Disney HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2744.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2777.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2743.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://cp.dmbshare.net:8000/live/ecu/ecu/2776.ts
-#EXTINF:-1,UK: Sky Movies Modern Great HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2742.ts
-#EXTINF:-1,UK: Sky Movies Premiere HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2775.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2774.ts
-#EXTINF:-1,UK: Sky Movies ShowCase
-http://cp.dmbshare.net:8000/live/ecu/ecu/2741.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2779.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://cp.dmbshare.net:8000/live/ecu/ecu/2776.ts
+#EXTM3U
+#EXTINF:-1,UK-Sky-movies-Thriller
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/408.ts
+#EXTINF:-1,UK-Sky-Movies-Showcase
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/409.ts
+#EXTINF:-1,UK-Sky-Movies-Select
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/410.ts
+#EXTINF:-1,UK-Sky-Movies-Family
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/411.ts
+#EXTINF:-1,UK-Sky-Movies-Disney.
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/412.ts
+#EXTINF:-1,UK-Sky-Movies-Comedy
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/415.ts
+#EXTINF:-1,UK-Sky-Movies-Action
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/417.ts
+#EXTINF:-1,UK-Sky-Movies -Premiere
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/418.ts
 
 #EXTINF:-1 , [COLOR red] --kids--[/COLOR] 
-#EXTINF:-1,UK: Nick
-http://cp.dmbshare.net:8000/live/ecu/ecu/2791.ts
-#EXTINF:-1,UK: Nick JR
-http://cp.dmbshare.net:8000/live/ecu/ecu/2748.ts
-#EXTINF:-1,UK: Tiny Pop
-http://cp.dmbshare.net:8000/live/ecu/ecu/2758.ts
-#EXTINF:-1,UK: Sky pop
-http://cp.dmbshare.net:8000/live/ecu/ecu/2770.ts
-#EXTINF:-1,UK: Sky Disney
-http://cp.dmbshare.net:8000/live/ecu/ecu/2782.ts
-#EXTINF:-1,UK: Sky Movies Disney HD
-http://cp.dmbshare.net:8000/live/ecu/ecu/2744.ts
+#EXTM3U
+#EXTINF:-1,UK-Nicktoons-Ireland
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/402.ts
+#EXTINF:-1,UK-Nick-Jr-Too
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/403.ts
+#EXTINF:-1,UK-Nick-Jr 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/404.ts
+#EXTINF:-1,UK: Cbeebies
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/894.ts
+#EXTINF:-1,UK: Cartoon Network
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/896.ts
+
+#EXTINF:-1 , [COLOR white] --usa--[/COLOR] 
+#EXTM3U
+#EXTINF:-1,UK: CTH STADIUM X
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2139.ts
+#EXTINF:-1,UK: CTH STADIUM 6 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2140.ts
+#EXTINF:-1,UK: CTH STADIUM 5 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2145.ts
+#EXTINF:-1,UK: CTH STADIUM 4 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2146.ts
+#EXTINF:-1,UK: CTH STADIUM 3 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2147.ts
+#EXTINF:-1,UK: CTH STADIUM 2 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2148.ts
+#EXTINF:-1,UK: CTH STADIUM 1 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/2149.ts
+
 
