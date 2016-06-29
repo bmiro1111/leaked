@@ -64,6 +64,8 @@ http://217.23.4.192:7070/contact…/spcentral@outlook.com/9.ch
 #EXTINF:-1,UK=SkySport5_UK
 http://globalstream.noip.us:8000/live/test/test/1333.ts
 #EXTINF:-1,Sky Sports 5
+http://94.194.125.111:8001/1:0:1:517:7DB:2:11A0000:0:0:0::Sky 
+#EXTINF:-1,Sky Sports 5
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/18.ch
 #EXTINF:-1,Sky Sports 4 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/8.ch
@@ -71,20 +73,28 @@ http://217.23.4.192:7070/contact…/spcentral@outlook.com/8.ch
 http://globalstream.noip.us:8000/live/test/test/1334.ts
 #EXTINF:-1,Sky Sports 4
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/17.ch
+#EXTINF:-1,Sky Sports 4 SD
+http://94.194.125.111:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,Sky Sports 3 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/7.ch
 #EXTINF:-1,UK=SkySport3_UK
 http://globalstream.noip.us:8000/live/test/test/1335.ts
 #EXTINF:-1,Sky Sports 3
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/16.ch
+#EXTINF:-1,Sky Sports 3 SD
+http://94.194.125.111:8001/1:0:1:107B:7E5:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,Sky Sports 2 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/6.ch
 #EXTINF:-1,UK=SkySport2_UK
 http://globalstream.noip.us:8000/live/test/test/1336.ts
 #EXTINF:-1,Sky Sports 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/15.ch
+#EXTINF:-1,Sky Sports 2 SD
+http://94.194.125.111:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,Sky Sports 1 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/5.ch
+#EXTINF:-1,Sky Sports 1 SD
+http://94.194.125.111:8001/1:0:1:1076:7E5:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,UK=SkySport1_UK
 http://globalstream.noip.us:8000/live/test/test/1337.ts
 #EXTINF:-1,Sky Sports 1
@@ -105,14 +115,20 @@ http://globalstream.noip.us:8000/live/test/test/1322.ts
 http://globalstream.noip.us:8000/live/test/test/1327.ts
 #EXTINF:-1,UK=Boxnation
 http://globalstream.noip.us:8000/live/test/test/1340.ts
+#EXTINF:-1,BoxNation
+http://94.194.125.111:8001/1:0:1:D368:830:2:11A0000:0:0:0::BoxNation
 #EXTINF:-1,UK=PremierSport
 http://globalstream.noip.us:8000/live/test/test/756.ts
+#EXTINF:-1,Premier Sports
+http://94.194.125.111:8001/1:0:1:C7A9:817:2:11A0000:0:0:0::Premier Sports
 #EXTINF:-1,MUTV HD
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/35.ch
 #EXTINF:-1,UK=MUTV
 http://globalstream.noip.us:8000/live/test/test/778.ts
 #EXTINF:-1,UK=BTSportESPN
 http://globalstream.noip.us:8000/live/test/test/768.ts
+#EXTINF:-1,BT Sport//ESPN
+http://94.194.125.111:8001/1:0:1:D025:909:2:11A0000:0:0:0::BT Sport//ESPN
 #EXTINF:-1,UK=BTSport2
 http://globalstream.noip.us:8000/live/test/test/767.ts
 #EXTINF:-1,UK=BTSport1
@@ -127,20 +143,33 @@ http://217.23.4.192:7070/contac…/spcentral@outlook.com/32.ch
 #EXTM3U
 #EXTINF:-1,UK=Discovery Science HD
 http://globalstream.noip.us:8000/live/test/test/734.ts
+#EXTINF:-1,Disc.Science SD
+http://94.194.125.111:8001/1:0:1:183E:7D9:2:11A0000:0:0:0::Disc.Science
 #EXTINF:-1,UK=Discovery Investigation HD
 http://globalstream.noip.us:8000/live/test/test/733.ts
 #EXTINF:-1,UK=DiscoveryHistory
 http://globalstream.noip.us:8000/live/test/test/731.ts
+#EXTINF:-1,Disc.History SD
+http://94.194.125.111:8001/1:0:1:183F:7D9:2:11A0000:0:0:0::Disc.History
 #EXTINF:-1,UK=Discovery History HD
 http://globalstream.noip.us:8000/live/test/test/1139.ts
 #EXTINF:-1,UK=Discovery Channel HD
 http://globalstream.noip.us:8000/live/test/test/730.t
+#EXTINF:-1,Discovery SD
+http://94.194.125.111:8001/1:0:1:1839:7D9:2:11A0000:0:0:0::Discovery
 #EXTINF:-1,UK=Discovery Turbo HD
 http://globalstream.noip.us:8000/live/test/test/735.ts
+#EXTINF:-1,Disc.Turbo SD
+http://94.194.125.111:8001/1:0:1:1841:7D9:2:11A0000:0:0:0::Disc.Turbo
 #EXTINF:-1,UK=Animal Planet HD
 http://globalstream.noip.us:8000/live/test/test/1143.ts
+#EXTINF:-1,Animal Planet SD
+http://94.194.125.111:8001/1:0:1:183A:7D9:2:11A0000:0:0:0::Animal Planet
 #EXTINF:-1,UK=NationalGeographic
 http://globalstream.noip.us:8000/live/test/test/729.ts
+#EXTINF:-1,Nat Geo
+http://94.194.125.111:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0::Nat Geo
+
 
 
 
@@ -151,20 +180,37 @@ http://globalstream.noip.us:8000/live/test/test/729.ts
 #EXTM3U
 #EXTINF:-1,UK=SkyMoviesCrime&amp;Thriller
 http://globalstream.noip.us:8000/live/test/test/760.ts
+#EXTINF:-1,Sky Thriller SD
+http://94.194.125.111:8001/1:0:1:1136:7DC:2:11A0000:0:0:0::Sky Thriller
 #EXTINF:-1,UK=Sky Movies Scifi / Horror HD
 http://globalstream.noip.us:8000/live/test/test/706.ts
+#EXTINF:-1,Sky ScFi/Horror SD
+http://94.194.125.111:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0::Sky ScFi/Horror
 #EXTINF:-1,UK=Sky Movies Premiere HD
 http://globalstream.noip.us:8000/live/test/test/705.ts
+#EXTINF:-1,Sky Premiere SD
+http://94.194.125.111:8001/1:0:1:1134:7DC:2:11A0000:0:0:0::Sky Premiere
 #EXTINF:-1,UK=Sky Movies Family HD
 http://globalstream.noip.us:8000/live/test/test/702.ts
+#EXTINF:-1,Sky Family SD
+http://94.194.125.111:8001/1:0:1:1133:7DC:2:11A0000:0:0:0::Sky Family
 #EXTINF:-1,UK=SKYMOVIES_COMEDY
 http://globalstream.noip.us:8000/live/test/test/701.ts
+#EXTINF:-1,Sky Comedy SD
+http://94.194.125.111:8001/1:0:1:10CF:7DC:2:11A0000:0:0:0::Sky Comedy
 #EXTINF:-1,UK=SkyMovies_Thriller
 http://globalstream.noip.us:8000/live/test/test/1132.ts
+#EXTINF:-1,Sky Thriller SD
+http://94.194.125.111:8001/1:0:1:1136:7DC:2:11A0000:0:0:0::Sky Thriller
 #EXTINF:-1,UK=Sky Movies Select HD
 http://globalstream.noip.us:8000/live/test/test/1131.ts
+#EXTINF:-1,Sky Select SD
+http://94.194.125.111:8001/1:0:1:10D2:7DC:2:11A0000:0:0:0::Sky Select
 #EXTINF:-1,UK=Sky Movies Drama HD
 http://globalstream.noip.us:8000/live/test/test/1129.ts
+#EXTINF:-1,SkyDramaRom
+http://94.194.125.111:8001/1:0:1:157E:7DC:2:11A0000:0:0:0::SkyDramaRom
+
 
 
 #EXTINF:-1 , [COLOR red] --kids--[/COLOR] 
@@ -175,6 +221,20 @@ http://globalstream.noip.us:8000/live/test/test/736.ts
 http://globalstream.noip.us:8000/live/test/test/737.ts
 #EXTINF:-1,UK=Disney Channel
 http://globalstream.noip.us:8000/live/test/test/761.ts
+#EXTINF:-1,Disney XD
+http://31.48.22.238:8001/1:0:1:238D:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,Disney Junior
+http://31.48.22.238:8001/1:0:1:238F:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,Boomerang
+http://31.48.22.238:8001/1:0:1:C41D:813:2:11A0000:0:0:0:
+#EXTINF:-1,Boomerang +1
+http://31.48.22.238:8001/1:0:1:C422:813:2:11A0000:0:0:0:
+#EXTINF:-1,Cartoon Netwrk
+http://31.48.22.238:8001/1:0:1:C418:813:2:11A0000:0:0:0:
+#EXTINF:-1,Cartoonito
+http://31.48.22.238:8001/1:0:1:1591:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,CBBC
+
 
 
 #EXTINF:-1 , [COLOR white] --usa--[/COLOR] 
