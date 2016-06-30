@@ -55,38 +55,33 @@ http://globalstream.noip.us:8000/live/test/test/715.ts
 
 #EXTINF:-1 , [COLOR blue] --sport--[/COLOR] 
 #EXTM3U 
-#EXTINF:-1,UK=SkysportNews
-http://globalstream.noip.us:8000/live/test/test/1338.ts
-#EXTINF:-1,UK=SkysportF1
-http://globalstream.noip.us:8000/live/test/test/1339.ts
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sky Sports F1
+#EXTVLCOPT:program=1306
+http://90.255.74.7:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
+
+
 #EXTINF:-1,Sky Sports 5 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/9.ch
-#EXTINF:-1,UK=SkySport5_UK
-http://globalstream.noip.us:8000/live/test/test/1333.ts
 #EXTINF:-1,Sky Sports 5
 http://94.194.125.111:8001/1:0:1:517:7DB:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,Sky Sports 5
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/18.ch
 #EXTINF:-1,Sky Sports 4 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/8.ch
-#EXTINF:-1,UK=SkySport4_UK
-http://globalstream.noip.us:8000/live/test/test/1334.ts
 #EXTINF:-1,Sky Sports 4
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/17.ch
 #EXTINF:-1,Sky Sports 4 SD
 http://94.194.125.111:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,Sky Sports 3 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/7.ch
-#EXTINF:-1,UK=SkySport3_UK
-http://globalstream.noip.us:8000/live/test/test/1335.ts
 #EXTINF:-1,Sky Sports 3
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/16.ch
 #EXTINF:-1,Sky Sports 3 SD
 http://94.194.125.111:8001/1:0:1:107B:7E5:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,Sky Sports 2 HD
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/6.ch
-#EXTINF:-1,UK=SkySport2_UK
-http://globalstream.noip.us:8000/live/test/test/1336.ts
 #EXTINF:-1,Sky Sports 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/15.ch
 #EXTINF:-1,Sky Sports 2 SD
@@ -95,48 +90,38 @@ http://94.194.125.111:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::Sky
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/5.ch
 #EXTINF:-1,Sky Sports 1 SD
 http://94.194.125.111:8001/1:0:1:1076:7E5:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,UK=SkySport1_UK
-http://globalstream.noip.us:8000/live/test/test/1337.ts
+#EXTINF:-1,Sky Sports 1
+http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,Sky Sports 1
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/14.ch
-#EXTINF:-1,UK=SkyNews
-http://globalstream.noip.us:8000/live/test/test/1369.ts
-#EXTINF:-1,UK=BTSportsExtra5
-http://globalstream.noip.us:8000/live/test/test/1326.ts
-#EXTINF:-1,UK=BTSportsExtra4
-http://globalstream.noip.us:8000/live/test/test/1325.ts
-#EXTINF:-1,UK=BTSportsExtra3
-http://globalstream.noip.us:8000/live/test/test/1324.ts
-#EXTINF:-1,UK=BTSportsExtra2
-http://globalstream.noip.us:8000/live/test/test/1323.ts
-#EXTINF:-1,UK=BTSportsExtra1
-http://globalstream.noip.us:8000/live/test/test/1322.ts
-#EXTINF:-1,UK=BTSportEurope
-http://globalstream.noip.us:8000/live/test/test/1327.ts
-#EXTINF:-1,UK=Boxnation
-http://globalstream.noip.us:8000/live/test/test/1340.ts
 #EXTINF:-1,BoxNation
 http://94.194.125.111:8001/1:0:1:D368:830:2:11A0000:0:0:0::BoxNation
-#EXTINF:-1,UK=PremierSport
-http://globalstream.noip.us:8000/live/test/test/756.ts
 #EXTINF:-1,Premier Sports
 http://94.194.125.111:8001/1:0:1:C7A9:817:2:11A0000:0:0:0::Premier Sports
 #EXTINF:-1,MUTV HD
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/35.ch
-#EXTINF:-1,UK=MUTV
-http://globalstream.noip.us:8000/live/test/test/778.ts
-#EXTINF:-1,UK=BTSportESPN
-http://globalstream.noip.us:8000/live/test/test/768.ts
+#EXTINF:-1,MUTV
+http://90.255.74.7:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
+#EXTINF:-1,Chelsea TV
+http://90.255.74.7:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
+#EXTINF:-1,Notts TV
+http://90.255.74.7:8001/1:0:1:D3C6:829:2:11A0000:0:0:0:
+#EXTINF:-1,LFCTV
+http://90.255.74.7:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
 #EXTINF:-1,BT Sport//ESPN
 http://94.194.125.111:8001/1:0:1:D025:909:2:11A0000:0:0:0::BT Sport//ESPN
-#EXTINF:-1,UK=BTSport2
-http://globalstream.noip.us:8000/live/test/test/767.ts
-#EXTINF:-1,UK=BTSport1
-http://globalstream.noip.us:8000/live/test/test/766.ts
-#EXTINF:-1,UK=BoxnationUk
-http://globalstream.noip.us:8000/live/test/test/763.ts
 #EXTINF:-1,Box Nation
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/32.ch
+#EXTINF:-1,BT Sport//ESPN
+http://90.255.74.7:8001/1:0:1:D026:909:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport Europe
+http://90.255.74.7:8001/1:0:1:D7DC:840:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 1
+http://90.255.74.7:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 2
+http://90.255.74.7:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+
+
 
 
 #EXTINF:-1 , [COLOR blue] --discovery--[/COLOR] 
@@ -190,10 +175,14 @@ http://94.194.125.111:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0::Sky ScFi/Horror
 http://globalstream.noip.us:8000/live/test/test/705.ts
 #EXTINF:-1,Sky Premiere SD
 http://94.194.125.111:8001/1:0:1:1134:7DC:2:11A0000:0:0:0::Sky Premiere
+#EXTINF:-1,Sky Premiere
+http://90.255.74.7:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,UK=Sky Movies Family HD
 http://globalstream.noip.us:8000/live/test/test/702.ts
 #EXTINF:-1,Sky Family SD
 http://94.194.125.111:8001/1:0:1:1133:7DC:2:11A0000:0:0:0::Sky Family
+#EXTINF:-1,Sky Family
+http://90.255.74.7:8001/1:0:1:1133:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,UK=SKYMOVIES_COMEDY
 http://globalstream.noip.us:8000/live/test/test/701.ts
 #EXTINF:-1,Sky Comedy SD
@@ -210,6 +199,8 @@ http://94.194.125.111:8001/1:0:1:10D2:7DC:2:11A0000:0:0:0::Sky Select
 http://globalstream.noip.us:8000/live/test/test/1129.ts
 #EXTINF:-1,SkyDramaRom
 http://94.194.125.111:8001/1:0:1:157E:7DC:2:11A0000:0:0:0::SkyDramaRom
+#EXTINF:-1,Sky Action
+http://90.255.74.7:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
 
 
 
