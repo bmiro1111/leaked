@@ -60,44 +60,48 @@ http://globalstream.noip.us:8000/live/test/test/715.ts
 #EXTINF:-1,Sky Sports F1
 #EXTVLCOPT:program=1306
 http://90.255.74.7:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
-
-
-#EXTINF:-1,Sky Sports 5 HD
+#EXTINF:-1,Sky Sports 5 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/9.ch
-#EXTINF:-1,Sky Sports 5
+#EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:517:7DB:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,Sky Sports 5
+#EXTINF:-1,link 3
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/18.ch
-#EXTINF:-1,Sky Sports 4 HD
+#EXTINF:-1,link 4
+http://5.81.13.247:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 4 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/8.ch
-#EXTINF:-1,Sky Sports 4
+#EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/17.ch
-#EXTINF:-1,Sky Sports 4 SD
+#EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,Sky Sports 3 HD
+#EXTINF:-1,Sky Sports 3 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/7.ch
-#EXTINF:-1,Sky Sports 3
+#EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/16.ch
-#EXTINF:-1,Sky Sports 3 SD
+#EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:107B:7E5:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,Sky Sports 2 HD
+#EXTINF:-1,Sky Sports 2 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/6.ch
-#EXTINF:-1,Sky Sports 2
+#EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/15.ch
-#EXTINF:-1,Sky Sports 2 SD
+#EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,Sky Sports 1 HD
+#EXTINF:-1,Sky Sports 1 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/5.ch
-#EXTINF:-1,Sky Sports 1 SD
+#EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:1076:7E5:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,Sky Sports 1
+#EXTINF:-1,link 3
 http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Sports 1
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/14.ch
+#EXTINF:-1,link 4
+http://5.81.13.247:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,BoxNation
 http://94.194.125.111:8001/1:0:1:D368:830:2:11A0000:0:0:0::BoxNation
+#EXTINF:-1,link 2
+http://5.81.13.247:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1,Premier Sports
 http://94.194.125.111:8001/1:0:1:C7A9:817:2:11A0000:0:0:0::Premier Sports
+#EXTINF:-1,link 2
+http://5.81.13.247:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
 #EXTINF:-1,MUTV HD
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/35.ch
 #EXTINF:-1,MUTV
@@ -112,10 +116,16 @@ http://90.255.74.7:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
 http://94.194.125.111:8001/1:0:1:D025:909:2:11A0000:0:0:0::BT Sport//ESPN
 #EXTINF:-1,Box Nation
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/32.ch
+#EXTINF:-1,link 2
+http://5.81.13.247:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1,BT Sport//ESPN
 http://90.255.74.7:8001/1:0:1:D026:909:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
+http://5.81.13.247:8001/1:0:1:D025:909:2:11A0000:0:0:0:
 #EXTINF:-1,BT Sport Europe
 http://90.255.74.7:8001/1:0:1:D7DC:840:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
+http://5.81.13.247:8001/1:0:1:D7AB:840:2:11A0000:0:0:0:
 #EXTINF:-1,Eurosport 1
 http://90.255.74.7:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
 #EXTINF:-1,Eurosport 2
@@ -126,16 +136,20 @@ http://90.255.74.7:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
 
 #EXTINF:-1 , [COLOR blue] --discovery--[/COLOR] 
 #EXTM3U
-#EXTINF:-1,UK=Discovery Science HD
-http://globalstream.noip.us:8000/live/test/test/734.ts
 #EXTINF:-1,Disc.Science SD
 http://94.194.125.111:8001/1:0:1:183E:7D9:2:11A0000:0:0:0::Disc.Science
+#EXTINF:-1,link 2
+http://5.81.13.247:8001/1:0:1:183E:7D9:2:11A0000:0:0:0:
 #EXTINF:-1,UK=Discovery Investigation HD
 http://globalstream.noip.us:8000/live/test/test/733.ts
+#EXTINF:-1,link 2
+http://5.81.13.247:8001/1:0:1:12C2:7E9:2:11A0000:0:0:0:
 #EXTINF:-1,UK=DiscoveryHistory
 http://globalstream.noip.us:8000/live/test/test/731.ts
-#EXTINF:-1,Disc.History SD
+#EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:183F:7D9:2:11A0000:0:0:0::Disc.History
+#EXTINF:-1,link 3
+http://5.81.13.247:8001/1:0:1:183F:7D9:2:11A0000:0:0:0:
 #EXTINF:-1,UK=Discovery History HD
 http://globalstream.noip.us:8000/live/test/test/1139.ts
 #EXTINF:-1,UK=Discovery Channel HD
