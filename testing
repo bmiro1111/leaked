@@ -1,0 +1,69 @@
+<streamingInfos>
+<item>
+<title>UK Sky Sports 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5706.ts</link>
+<thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-1.png</thumbnail>
+
+<item>
+<title>UK Sky Sports 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5705.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>UK Sky Sports 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5704.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+
+<item>
+<title>UK Sky Sports 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5702.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+
+<item>
+<title>UK Sky Sports 5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5700.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>UK Sky Sports F1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5698.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>BT Sport 1 UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5802.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>BT Sport 2 UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5800.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>Racing UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5736.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>At The Races UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5814.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>At The Races UK 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.180.159/liverepeater/55d84287ac5d5/604615590.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>Box Nation UK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cp.dmbshare.net:8000/live/hatz/hatz/5804.ts</link>
+<thumbnail>imagehere</thumbnail>
+
+<item>
+<title>Dubai Racing - RUK and ATR</title>
+<link>http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8</link>
+<thumbnail>imagehere</thumbnail>
+
+</streamingInfos>
