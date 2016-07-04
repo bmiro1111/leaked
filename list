@@ -60,6 +60,8 @@ http://globalstream.noip.us:8000/live/test/test/715.ts
 #EXTINF:-1,Sky Sports F1
 #EXTVLCOPT:program=1306
 http://90.255.74.7:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports F1 HD
+http://topiptv.net:5890/live/solo/solo/278.ts
 #EXTINF:-1,Sky Sports 5 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/9.ch
 #EXTINF:-1,link 2
@@ -68,24 +70,32 @@ http://94.194.125.111:8001/1:0:1:517:7DB:2:11A0000:0:0:0::Sky
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/18.ch
 #EXTINF:-1,link 4
 http://5.81.13.247:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 5 HD
+http://topiptv.net:5890/live/solo/solo/277.ts
 #EXTINF:-1,Sky Sports 4 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/8.ch
 #EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/17.ch
 #EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::Sky 
+#EXTINF:-1,Sky Sports 4 HD
+http://topiptv.net:5890/live/solo/solo/276.ts
 #EXTINF:-1,Sky Sports 3 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/7.ch
 #EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/16.ch
 #EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:107B:7E5:2:11A0000:0:0:0::Sky 
+#EXTINF:-1,Sky Sports 3 HD
+http://topiptv.net:5890/live/solo/solo/275.ts
 #EXTINF:-1,Sky Sports 2 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/6.ch
 #EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/15.ch
 #EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:1581:7EA:2:11A0000:0:0:0::Sky 
+#EXTINF:-1,Sky Sports 2 HD
+http://topiptv.net:5890/live/solo/solo/274.ts
 #EXTINF:-1,Sky Sports 1 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/5.ch
 #EXTINF:-1,link 2
@@ -94,10 +104,14 @@ http://94.194.125.111:8001/1:0:1:1076:7E5:2:11A0000:0:0:0::Sky
 http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,link 4
 http://5.81.13.247:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 1 HD
+http://topiptv.net:5890/live/solo/solo/273.ts
 #EXTINF:-1,BoxNation
 http://94.194.125.111:8001/1:0:1:D368:830:2:11A0000:0:0:0::BoxNation
 #EXTINF:-1,link 2
 http://5.81.13.247:8001/1:0:1:D368:830:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://topiptv.net:5890/live/solo/solo/1711.ts
 #EXTINF:-1,Premier Sports
 http://94.194.125.111:8001/1:0:1:C7A9:817:2:11A0000:0:0:0::Premier Sports
 #EXTINF:-1,link 2
@@ -130,6 +144,8 @@ http://5.81.13.247:8001/1:0:1:D7AB:840:2:11A0000:0:0:0:
 http://90.255.74.7:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
 #EXTINF:-1,Eurosport 2
 http://90.255.74.7:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Setanta Ireland
+http://topiptv.net:5890/live/solo/solo/281.ts
 
 
 
@@ -154,7 +170,9 @@ http://5.81.13.247:8001/1:0:1:183F:7D9:2:11A0000:0:0:0:
 http://globalstream.noip.us:8000/live/test/test/1139.ts
 #EXTINF:-1,UK=Discovery Channel HD
 http://globalstream.noip.us:8000/live/test/test/730.t
-#EXTINF:-1,Discovery SD
+#EXTINF:-1,link 2
+http://topiptv.net:5890/live/solo/solo/289.ts
+#EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:1839:7D9:2:11A0000:0:0:0::Discovery
 #EXTINF:-1,UK=Discovery Turbo HD
 http://globalstream.noip.us:8000/live/test/test/735.ts
@@ -191,25 +209,29 @@ http://globalstream.noip.us:8000/live/test/test/705.ts
 http://94.194.125.111:8001/1:0:1:1134:7DC:2:11A0000:0:0:0::Sky Premiere
 #EXTINF:-1,Sky Premiere
 http://90.255.74.7:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
+http://topiptv.net:5890/live/solo/solo/264.ts
 #EXTINF:-1,UK=Sky Movies Family HD
 http://globalstream.noip.us:8000/live/test/test/702.ts
 #EXTINF:-1,Sky Family SD
 http://94.194.125.111:8001/1:0:1:1133:7DC:2:11A0000:0:0:0::Sky Family
-#EXTINF:-1,Sky Family
+#EXTINF:-1,link 2
 http://90.255.74.7:8001/1:0:1:1133:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,UK=SKYMOVIES_COMEDY
+#EXTINF:-1,SKYMOVIES_COMEDY
 http://globalstream.noip.us:8000/live/test/test/701.ts
-#EXTINF:-1,Sky Comedy SD
+#EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:10CF:7DC:2:11A0000:0:0:0::Sky Comedy
-#EXTINF:-1,UK=SkyMovies_Thriller
+#EXTINF:-1,SkyMovies_Thriller
 http://globalstream.noip.us:8000/live/test/test/1132.ts
 #EXTINF:-1,Sky Thriller SD
 http://94.194.125.111:8001/1:0:1:1136:7DC:2:11A0000:0:0:0::Sky Thriller
-#EXTINF:-1,UK=Sky Movies Select HD
+#EXTINF:-1,Sky Movies Select HD
 http://globalstream.noip.us:8000/live/test/test/1131.ts
-#EXTINF:-1,Sky Select SD
+#EXTINF:-1,link 2
+http://topiptv.net:5890/live/solo/solo/257.
+#EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:10D2:7DC:2:11A0000:0:0:0::Sky Select
-#EXTINF:-1,UK=Sky Movies Drama HD
+#EXTINF:-1,Sky Movies Drama HD
 http://globalstream.noip.us:8000/live/test/test/1129.ts
 #EXTINF:-1,SkyDramaRom
 http://94.194.125.111:8001/1:0:1:157E:7DC:2:11A0000:0:0:0::SkyDramaRom
@@ -224,8 +246,14 @@ http://90.255.74.7:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
 http://globalstream.noip.us:8000/live/test/test/736.ts
 #EXTINF:-1,UK=Nickelodeon
 http://globalstream.noip.us:8000/live/test/test/737.ts
-#EXTINF:-1,UK=Disney Channel
+#EXTINF:-1,Nick Jr.
+http://topiptv.net:5890/live/solo/solo/1084.ts
+#EXTINF:-1,Disney Channel
 http://globalstream.noip.us:8000/live/test/test/761.ts
+#EXTINF:-1,Disney channel HD
+http://topiptv.net:5890/live/solo/solo/282.ts
+#EXTINF:-1,UK:DinsenyChannelUK
+http://topiptv.net:5890/live/solo/solo/1090.ts
 #EXTINF:-1,Disney XD
 http://31.48.22.238:8001/1:0:1:238D:7DB:2:11A0000:0:0:0:
 #EXTINF:-1,Disney Junior
@@ -238,7 +266,8 @@ http://31.48.22.238:8001/1:0:1:C422:813:2:11A0000:0:0:0:
 http://31.48.22.238:8001/1:0:1:C418:813:2:11A0000:0:0:0:
 #EXTINF:-1,Cartoonito
 http://31.48.22.238:8001/1:0:1:1591:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,CBBC
+#EXTINF:-1,Cartoon Netwrk
+http://topiptv.net:5890/live/solo/solo/813.ts
 
 
 
