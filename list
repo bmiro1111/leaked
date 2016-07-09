@@ -106,10 +106,16 @@ http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
 http://5.81.13.247:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,Sky Sports 1 HD
 http://topiptv.net:5890/live/solo/solo/273.ts
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1,BoxNation
-http://94.194.125.111:8001/1:0:1:D368:830:2:11A0000:0:0:0::BoxNation
-#EXTINF:-1,link 2
-http://5.81.13.247:8001/1:0:1:D368:830:2:11A0000:0:0:0:
+#EXTVLCOPT:program=54120
+http://86.147.121.209:8001/1:0:1:D368:830:2:11A0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,l
+#EXTVLCOPT:program=54120
+http://176.27.194.251:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1,link 3
 http://topiptv.net:5890/live/solo/solo/1711.ts
 #EXTINF:-1,Premier Sports
