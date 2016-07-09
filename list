@@ -142,15 +142,9 @@ http://90.255.74.7:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
 http://90.255.74.7:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
 #EXTINF:-1,Setanta Ireland
 http://topiptv.net:5890/live/solo/solo/281.ts
-#EXTM3U 
-#EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1,BT Sport 2
-#EXTVLCOPT:program=53281
+#EXTINF:-1,BT Sport 1
 http://176.27.194.251:8001/1:0:1:D021:909:2:11A0000:0:0:0:
-#EXTM3U 
-#EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1,BT Sport 2
-#EXTVLCOPT:program=53280
+#EXTINF:-1,LINK 2
 http://2.99.216.118:8001/1:0:1:D020:909:2:11A0000:0:0:0:
 
 
