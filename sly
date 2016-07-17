@@ -1,5 +1,4 @@
-Entertainment
-
+#EXTINF:-1,Entertainment[color red]
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,BBC One E Mid
@@ -280,8 +279,7 @@ http://82.31.116.238:8001/1:0:19:5726:82B:2:11A0000:0:0:0::Insight HD
 http://82.31.116.238:8001/1:0:19:CC48:83D:2:11A0000:0:0:0::S4C HD
 
 
- Movies
-
+#EXTINF:-1,movies[color green]
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,Sky Premiere
@@ -342,8 +340,7 @@ http://82.31.116.238:8001/1:0:1:D3C9:829:2:11A0000:0:0:0::Nollywood
 http://82.31.116.238:8001/1:0:1:584E:82E:2:11A0000:0:0:0::TalkingPictures
 
 
-Sports
-
+#EXTINF:-1,sport[color white]
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,Sky The Open
@@ -414,8 +411,7 @@ http://82.31.116.238:8001/1:0:19:1BBC:7E2:2:11A0000:0:0:0::BoxNation HD
 http://82.31.116.238:8001/1:0:1:132A:7E7:2:11A0000:0:0:0::SkySpBoxOff
 
 
-Documentaries
-
+#EXTINF:-1,Documentaries[color blue]
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,Discovery
@@ -484,8 +480,8 @@ http://82.31.116.238:8001/1:0:1:D129:90C:2:11A0000:0:0:0::News18
 http://82.31.116.238:8001/1:0:19:C472:813:2:11A0000:0:0:0::CNN HD
 
 
- Kids
 
+#EXTINF:-1,kids[color yellow]
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1,Cartoon Netwrk
