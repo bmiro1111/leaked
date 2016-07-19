@@ -2,25 +2,25 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/2000px-BBC_Four.svg.png", UK=BBC4 
 http://globalstream.noip.us:8000/live/test/test/690.ts 
-#EXTINF:-1,UK=BBC3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFQvEQQ19cOvPHAGFXBrs6AVY-_B8FLr1PiOOxwVh7l6pGaSX1GccCnoECUK=BBC3", uk=bbc3
 http://globalstream.noip.us:8000/live/test/test/689.ts
-#EXTINF:-1,UK=BBC2
+#EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/bbc2.png", UK=BBC2
 http://globalstream.noip.us:8000/live/test/test/688.ts
-#EXTINF:-1,UK=BBC1
+#EXTINF:-1 tvg-logo="http://www.parker1.co.uk/myth/icons/tv/bbc1.png", UK=BBC1
 http://globalstream.noip.us:8000/live/test/test/687.ts
-#EXTINF:-1,UK=ITV4
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/itv4.png", UK=ITV4
 http://globalstream.noip.us:8000/live/test/test/725.ts
-#EXTINF:-1,UK=ITV3
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/emmerdale/images/d/da/ITV3_logo_2013-.png/revision/latest?cb=20140713205521", UK=ITV3
 http://globalstream.noip.us:8000/live/test/test/724.ts
-#EXTINF:-1,UK=ITV2
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/coronationstreet/images/0/01/ITV2.png/revision/latest?cb=20130614151114", UK=ITV2
 http://globalstream.noip.us:8000/live/test/test/723.ts
-#EXTINF:-1,UK=ITV1
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/ITV1_logo_2010.png/revision/latest?cb=20100420153725", UK=ITV1
 http://globalstream.noip.us:8000/live/test/test/721.ts
-#EXTINF:-1,UK=Gold
+#EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/ukgold.png", UK=Gold
 http://globalstream.noip.us:8000/live/test/test/711.ts
-#EXTINF:-1,UK=Five
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6p6VF4qGdfHxZVl9B6mbNa3xpBHw3Ygh-yFGOxLlaNQ6PSCq4IRya7Y0", UK=Five
 http://globalstream.noip.us:8000/live/test/test/712.ts
-#EXTINF:-1,UK=Film4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/1024px-Film4.svg.png", UK=Film4
 http://globalstream.noip.us:8000/live/test/test/713.ts
 http://globalstream.noip.us:8000/live/test/test/1368.ts
 #EXTINF:-1,UK=BBC_NEWS
