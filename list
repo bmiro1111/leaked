@@ -2,7 +2,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/2000px-BBC_Four.svg.png", UK=BBC4 
 http://globalstream.noip.us:8000/live/test/test/690.ts 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFQvEQQ19cOvPHAGFXBrs6AVY-_B8FLr1PiOOxwVh7l6pGaSX1GccCnoECUK=BBC3", uk=bbc3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFQvEQQ19cOvPHAGFXBrs6AVY-_B8FLr1PiOOxwVh7l6pGaSX1GccCnoECUK", uk=bbc3
 http://globalstream.noip.us:8000/live/test/test/689.ts
 #EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/bbc2.png", UK=BBC2
 http://globalstream.noip.us:8000/live/test/test/688.ts
