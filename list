@@ -2,7 +2,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/2000px-BBC_Four.svg.png", UK=BBC4 
 http://globalstream.noip.us:8000/live/test/test/690.ts 
-#EXTINF:-1 tvg-logo="http://www.theyorker.co.uk/wp-content/uploads/2016/02/bbc-3-three-logo.png", uk=bbc3
+#EXTINF:-1 tvg-logo="http://www.playasanjuantenerife.com/images/bbc3.png", uk=bbc3
 http://globalstream.noip.us:8000/live/test/test/689.ts
 #EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/bbc2.png", UK=BBC2
 http://globalstream.noip.us:8000/live/test/test/688.ts
@@ -23,31 +23,29 @@ http://globalstream.noip.us:8000/live/test/test/712.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/1024px-Film4.svg.png", UK=Film4
 http://globalstream.noip.us:8000/live/test/test/713.ts
 http://globalstream.noip.us:8000/live/test/test/1368.ts
-#EXTINF:-1,UK=BBC_NEWS
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/bbcnews.12.u_0.png", UK=BBC_NEWS
 http://globalstream.noip.us:8000/live/test/test/1145.ts
-#EXTINF:-1,UK=Animal Planet HD
+#EXTINF:-1 tvg-logo="http://vectorlogofree.com/wp-content/uploads/2011/06/animal-planet-eps-vector-logo-400x400.png", UK=Animal Planet HD
 http://globalstream.noip.us:8000/live/test/test/1143.ts
-#EXTINF:-1,UK=5USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/120px-Channel_5_USA.svg.png", UK=5USA
 http://globalstream.noip.us:8000/live/test/test/1142.ts
-#EXTINF:-1,UK=CBSN News
+#EXTINF:-1 tvg-logo="https://d3n8a8pro7vhmx.cloudfront.net/hancockparkpatriots/pages/244/attachments/original/1404094287/Logo-CBS_News.png?1404094287", UK=CBSN News
 http://globalstream.noip.us:8000/live/test/test/1365.ts
-#EXTINF:-1,UK=5Star
+#EXTINF:-1 tvg-logo="http://cdn.freesat.co.uk/freesat/freesat_website/content/images/logos/5Star-Logo-135x76.png", UK=5Star
 http://globalstream.noip.us:8000/live/test/test/1352.ts
-#EXTINF:-1,UK=YESTERDAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yesterday_(UKTV)_logo.svg/120px-Yesterday_(UKTV)_logo.svg.png", UK=YESTERDAY
 http://globalstream.noip.us:8000/live/test/test/722.ts
-#EXTINF:-1,UK=WATCH_IRELAND
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/en/a/a7/Watch_logo_2012.png", UK=WATCH_IRELAND
 http://globalstream.noip.us:8000/live/test/test/1111.ts
-#EXTINF:-1,UK=3E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/3e(tvchannel)logo.png", UK=3E
 http://globalstream.noip.us:8000/live/test/test/718.ts
-#EXTINF:-1,UK=SkyTwo
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/memoryalpha/images/1/19/Sky_Two_Logo.png/revision/latest?cb=20110624222301&path-prefix=en", UK=SkyTwo
 http://globalstream.noip.us:8000/live/test/test/759.ts
-#EXTINF:-1,UK=SkyArts1
+#EXTINF:-1 tvg-logo="http://my.tvguide.co.uk/channel_logos/384.png", UK=SkyArts1
 http://globalstream.noip.us:8000/live/test/test/758.ts
-#EXTINF:-1,UK=ALIENS
-http://globalstream.noip.us:8000/live/test/test/727.ts
-#EXTINF:-1,UK=ALIBI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/2000px-Alibi.svg.png", UK=ALIBI
 http://globalstream.noip.us:8000/live/test/test/726.ts
-#EXTINF:-1,UK=Dave
+#EXTINF:-1 tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p22015091774.png", UK=Dave
 http://globalstream.noip.us:8000/live/test/test/715.ts
 
 
@@ -56,12 +54,11 @@ http://globalstream.noip.us:8000/live/test/test/715.ts
 #EXTINF:-1 , [COLOR blue] --sport--[/COLOR] 
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1,Sky Sports F1
-#EXTVLCOPT:program=1306
+#EXTINF:-1 tvg-logo="http://web.static.nowtv.com/images/sportsland/logos/sports_channel_sf1v2.png", Sky Sports F1
 http://90.255.74.7:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,Sky Sports F1
 http://109.147.222.143:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Sports 1 
+#EXTINF:-1 tvg-logo="http://stage-origin-products.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/SkySports1.png_1275714225.png", Sky Sports 1 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/5.ch
 #EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:1076:7E5:2:11A0000:0:0:0::Sky 
@@ -71,13 +68,13 @@ http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
 http://5.81.13.247:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,link 5
 http://109.147.222.143:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Sports 2 
+#EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/skygo/SkySports2.png_1284051362.png", Sky Sports 2 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/6.ch
 #EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/15.ch
 #EXTINF:-1,link 3
 http://109.147.222.143:8001/1:0:1:107E:7EA:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Sports 3 
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-3.png", Sky Sports 3 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/7.ch
 #EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/16.ch
@@ -85,7 +82,7 @@ http://217.23.4.192:7070/contac…/spcentral@outlook.com/16.ch
 http://94.194.125.111:8001/1:0:1:107B:7E5:2:11A0000:0:0:0::Sky 
 #EXTINF:-1,link 4
 http://109.147.222.143:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Sports 4 
+#EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/skygo/SkySports4.png_1282085156.png", Sky Sports 4 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/8.ch
 #EXTINF:-1,link 2
 http://217.23.4.192:7070/contac…/spcentral@outlook.com/17.ch
@@ -93,7 +90,7 @@ http://217.23.4.192:7070/contac…/spcentral@outlook.com/17.ch
 http://94.194.125.111:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::Sky
 #EXTINF:-1,link 4
 http://109.147.222.143:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Sports 5 
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-5.png", Sky Sports 5 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/9.ch
 #EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:517:7DB:2:11A0000:0:0:0::Sky 
@@ -103,7 +100,7 @@ http://217.23.4.192:7070/contac…/spcentral@outlook.com/18.ch
 http://5.81.13.247:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
 #EXTINF:-1,link 5
 http://109.147.222.143:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
-#EXTINF:-1,BoxNation
+#EXTINF:-1 tvg-logo="http://firesticks4u.com/addon/images/boxnation.png", BoxNation
 http://176.27.194.251:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://86.147.121.209:8001/1:0:1:D368:830:2:11A0000:0:0:0:
@@ -111,21 +108,19 @@ http://86.147.121.209:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 http://2.99.216.118:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1,link 4
 http://109.147.222.143:8001/1:0:1:D368:830:2:11A0000:0:0:0:
-#EXTINF:-1,Premier Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png", Premier Sports
 http://94.194.125.111:8001/1:0:1:C7A9:817:2:11A0000:0:0:0::Premier Sports
 #EXTINF:-1,link 2
 http://5.81.13.247:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
-#EXTINF:-1,MUTV HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/35.ch
-#EXTINF:-1,MUTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo.png", MUTV
 http://90.255.74.7:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
-#EXTINF:-1,Chelsea TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/ChelseaTVLogo.png/150px-ChelseaTVLogo.png", Chelsea TV
 http://90.255.74.7:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
-#EXTINF:-1,Notts TV
+#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/app/themes/freeview/assets/images/channels/entertainment/nottstv.png", Notts TV
 http://90.255.74.7:8001/1:0:1:D3C6:829:2:11A0000:0:0:0:
-#EXTINF:-1,Liverpool FC TV
+#EXTINF:-1 tvg-logo="http://watchfreelivetv.com/wp-content/uploads/2015/10/lfctv.png",Liverpool FC TV
 http://109.147.222.143:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
-#EXTINF:-1,BT Sport//ESPN
+#EXTINF:-1 tv-logo="https://users-images-atlas.metabroadcast.com/?source=http://images.atlas.metabroadcast.com/pressassociation.com/channels/p218895.png&resize=100", BT Sport//ESPN
 http://94.194.125.111:8001/1:0:1:D025:909:2:11A0000:0:0:0::BT Sport//ESPN
 #EXTINF:-1,link 2
 http://109.147.222.143:8001/1:0:1:C4CC:811:2:11A0000:0:0:0:
@@ -135,7 +130,7 @@ http://90.255.74.7:8001/1:0:1:D026:909:2:11A0000:0:0:0:
 http://5.81.13.247:8001/1:0:1:D025:909:2:11A0000:0:0:0:
 #EXTINF:-1,Box Nation
 http://5.81.13.247:8001/1:0:1:D368:830:2:11A0000:0:0:0: 
-#EXTINF:-1,BT Sport Europe
+#EXTINF:-1 tvg-logo="https://www.productsandservices.bt.com/products/lib/img/packages/tv/btsporteuro.png", BTEurope Sport 
 http://90.255.74.7:8001/1:0:1:D7DC:840:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://5.81.13.247:8001/1:0:1:D7AB:840:2:11A0000:0:0:0:
