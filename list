@@ -1,53 +1,47 @@
 #EXTINF:-1 , [COLOR green] --Entertainment--[/COLOR] 
 
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/2000px-BBC_Four.svg.png", UK=BBC4 
-http://globalstream.noip.us:8000/live/test/test/690.ts 
-#EXTINF:-1 tvg-logo="http://www.playasanjuantenerife.com/images/bbc3.png", uk=bbc3
-http://globalstream.noip.us:8000/live/test/test/689.ts
-#EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/bbc2.png", UK=BBC2
-http://globalstream.noip.us:8000/live/test/test/688.ts
-#EXTINF:-1 tvg-logo="http://www.parker1.co.uk/myth/icons/tv/bbc1.png", UK=BBC1
-http://globalstream.noip.us:8000/live/test/test/687.ts
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/itv4.png", UK=ITV4
-http://globalstream.noip.us:8000/live/test/test/725.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/emmerdale/images/d/da/ITV3_logo_2013-.png/revision/latest?cb=20140713205521", UK=ITV3
-http://globalstream.noip.us:8000/live/test/test/724.ts
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/coronationstreet/images/0/01/ITV2.png/revision/latest?cb=20130614151114", UK=ITV2
-http://globalstream.noip.us:8000/live/test/test/723.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/ITV1_logo_2010.png/revision/latest?cb=20100420153725", UK=ITV1
-http://globalstream.noip.us:8000/live/test/test/721.ts
-#EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/ukgold.png", UK=Gold
-http://globalstream.noip.us:8000/live/test/test/711.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6p6VF4qGdfHxZVl9B6mbNa3xpBHw3Ygh-yFGOxLlaNQ6PSCq4IRya7Y0", UK=Five
-http://globalstream.noip.us:8000/live/test/test/712.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/1024px-Film4.svg.png", UK=Film4
-http://globalstream.noip.us:8000/live/test/test/713.ts
-http://globalstream.noip.us:8000/live/test/test/1368.ts
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/bbcnews.12.u_0.png", UK=BBC_NEWS
-http://globalstream.noip.us:8000/live/test/test/1145.ts
-#EXTINF:-1 tvg-logo="http://vectorlogofree.com/wp-content/uploads/2011/06/animal-planet-eps-vector-logo-400x400.png", UK=Animal Planet HD
-http://globalstream.noip.us:8000/live/test/test/1143.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/120px-Channel_5_USA.svg.png", UK=5USA
-http://globalstream.noip.us:8000/live/test/test/1142.ts
-#EXTINF:-1 tvg-logo="https://d3n8a8pro7vhmx.cloudfront.net/hancockparkpatriots/pages/244/attachments/original/1404094287/Logo-CBS_News.png?1404094287", UK=CBSN News
-http://globalstream.noip.us:8000/live/test/test/1365.ts
-#EXTINF:-1 tvg-logo="http://cdn.freesat.co.uk/freesat/freesat_website/content/images/logos/5Star-Logo-135x76.png", UK=5Star
-http://globalstream.noip.us:8000/live/test/test/1352.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yesterday_(UKTV)_logo.svg/120px-Yesterday_(UKTV)_logo.svg.png", UK=YESTERDAY
-http://globalstream.noip.us:8000/live/test/test/722.ts
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/en/a/a7/Watch_logo_2012.png", UK=WATCH_IRELAND
-http://globalstream.noip.us:8000/live/test/test/1111.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/3e(tvchannel)logo.png", UK=3E
-http://globalstream.noip.us:8000/live/test/test/718.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/memoryalpha/images/1/19/Sky_Two_Logo.png/revision/latest?cb=20110624222301&path-prefix=en", UK=SkyTwo
-http://globalstream.noip.us:8000/live/test/test/759.ts
-#EXTINF:-1 tvg-logo="http://my.tvguide.co.uk/channel_logos/384.png", UK=SkyArts1
-http://globalstream.noip.us:8000/live/test/test/758.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/2000px-Alibi.svg.png", UK=ALIBI
-http://globalstream.noip.us:8000/live/test/test/726.ts
-#EXTINF:-1 tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p22015091774.png", UK=Dave
-http://globalstream.noip.us:8000/live/test/test/715.ts
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1, tvg-logo="http://www.parker1.co.uk/myth/icons/tv/bbc1.png", BBC One 
+http://151.230.231.48:8001/1:0:1:1933:7FF:2:11A0000:0:0:0::101 - BBC One 
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1, tvg-logo="http://parker1.co.uk/myth/icons/tv/bbc2.png", BBC Two Eng
+http://151.230.231.48:8001/1:0:1:189E:7FD:2:11A0000:0:0:0::102 - BBC Two Eng
+#EXTM3U 
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/ITV1_logo_2010.png/revision/latest?cb=20100420153725", ITV
+http://151.230.231.48:8001/1:0:1:27B0:805:2:11A0000:0:0:0::103 - ITV
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1, tvh-logo="http://www.pdasociety.org.uk/files/large/1f78b99ebae073c285aa14599249f474.png", channel 4
+http://151.230.231.48:8001/1:0:1:23FE:7F9:2:11A0000:0:0:0::104 - Channel 4
+#EXTM3U 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6p6VF4qGdfHxZVl9B6mbNa3xpBHw3Ygh-yFGOxLlaNQ6PSCq4IRya7Y0", Channel 5
+http://151.230.231.48:8001/1:0:1:1E15:809:2:11A0000:0:0:0::105 - Channel 5
+#EXTM3U 
+#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/lostpedia/images/9/93/800px-SKYONE.png/revision/latest?cb=20110602135059", Sky1
+http://151.230.231.48:8001/1:0:1:1656:7E5:2:11A0000:0:0:0::106 - Sky1
+#EXTM3U 
+#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/charmed/images/0/07/Sky_living.png/revision/latest?cb=20110726173921", Sky Living
+http://151.230.231.48:8001/1:0:1:1653:7EA:2:11A0000:0:0:0::107 - Sky Living
+#EXTM3U 
+#EXTINF:-1, tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT34d3Rwf8FtxBNjjCUgptWpXKfTj6bYoQdt7b4g4EVRJf4_9XQAyW64LU", Sky Atlantic
+#EXTVLCOPT:program=5711
+http://151.230.231.48:8001/1:0:1:164F:7E7:2:11A0000:0:0:0::108 - Sky Atlantic
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UKTV_channel_W_logo.png", W
+http://151.230.231.48:8001/1:0:1:1978:7E6:2:11A0000:0:0:0::109 - W
+#EXTM3U 
+#EXTINF:-1, tvg-logo="http://parker1.co.uk/myth/icons/tv/ukgold.png",- GOLD
+http://151.230.231.48:8001/1:0:1:1968:7E6:2:11A0000:0:0:0::110 - GOLD
+#EXTM3U 
+#EXTINF:-1, tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p22015091774.png", Dave
+http://151.230.231.48:8001/1:0:1:196A:7E6:2:11A0000:0:0:0::111 - Dave
+ #EXTM3U 
+#EXTINF:-1, tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/Syfy.png_63769838.png", syfy
+ Syfy
+http://151.230.231.48:8001/1:0:1:CC1A:83D:2:11A0000:0:0:0::114 - Syfy
 
 
 
