@@ -1,10 +1,10 @@
 #EXTINF:-1 , [COLOR green] --Entertainment--[/COLOR] 
 
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://www.parker1.co.uk/myth/icons/tv/bbc1.png", BBC One 
+#EXTINF:-1 tvg-logo="http://www.htpcmania.com/logos/BBC%20ONE.png", BBC One 
 http://151.230.231.48:8001/1:0:1:1933:7FF:2:11A0000:0:0:0::101 - BBC One 
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/bbc2.png", BBC Two Eng
+#EXTINF:-1 tvg-logo="http://dev.berovbros.com/list/list/Put%20contents%20in%20dev_hdd0/logos/bbc.two.png", BBC Two Eng
 http://151.230.231.48:8001/1:0:1:189E:7FD:2:11A0000:0:0:0::102 - BBC Two Eng
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/ITV1_logo_2010.png/revision/latest?cb=20100420153725", ITV
