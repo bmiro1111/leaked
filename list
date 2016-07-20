@@ -95,14 +95,14 @@ http://90.255.74.7:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
 http://topiptv.net:5890/live/solo/solo/281.ts
 #EXTINF:-1,link 2
 http://109.147.222.143:8001/1:0:1:C7A7:817:2:11A0000:0:0:0:
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/bt-sport-1.png", BT Sport 1
+#EXTINF:-1 tvg-logo="http://streamznow.com/wp-content/uploads/2016/02/BT-Sport-1-TV-Live-Stream-210x142.png", BT Sport 1
 http://86.142.127.20:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://151.230.231.48:8001/1:0:1:D7A5:840:2:11A0000:0:0:0::413
-#EXTINF:-1 tvg-log="http://www.zoptv.com/assets/logo/bt-sport-2.png", BT Sport 2 
+#EXTINF:-1 tvg-log="https://1.bp.blogspot.com/-HMnkivuGYEY/VsOoqdRDnmI/AAAAAAAAM14/Htgixxy5XKM/s640/bt-sport-2.png", BT Sport 2 
 http://86.142.127.20:8001/1:0:1:D020:909:2:11A0000:0:0:0:
-#EXTINF:-1,link 2
-http://151.230.231.48:8001/1:0:1:D020:909:2:11A0000:0:0:0:
+
+
 
 
 
