@@ -77,14 +77,10 @@ http://90.255.74.7:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
 http://90.255.74.7:8001/1:0:1:D3C6:829:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://watchfreelivetv.com/wp-content/uploads/2015/10/lfctv.png",Liverpool FC TV
 http://109.147.222.143:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
-#EXTINF:-1 tv-logo="https://users-images-atlas.metabroadcast.com/?source=http://images.atlas.metabroadcast.com/pressassociation.com/channels/p218895.png&resize=100", BT Sport//ESPN
-http://94.194.125.111:8001/1:0:1:D025:909:2:11A0000:0:0:0::BT Sport//ESPN
+#EXTINF:-1 tv-logo="http://seenit.co.uk/wp-content/uploads/BT-ESPN.png", BT Sport//ESPN
+http://86.142.127.20:8001/1:0:1:D025:909:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
-http://109.147.222.143:8001/1:0:1:C4CC:811:2:11A0000:0:0:0:
-#EXTINF:-1,link 3
 http://90.255.74.7:8001/1:0:1:D026:909:2:11A0000:0:0:0:
-#EXTINF:-1,link 4
-http://5.81.13.247:8001/1:0:1:D025:909:2:11A0000:0:0:0:
 #EXTINF:-1,Box Nation
 http://5.81.13.247:8001/1:0:1:D368:830:2:11A0000:0:0:0: 
 #EXTINF:-1 tvg-logo="https://www.productsandservices.bt.com/products/lib/img/packages/tv/btsporteuro.png", BTEurope Sport 
