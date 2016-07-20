@@ -52,45 +52,19 @@ http://109.147.222.143:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://stage-origin-products.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/SkySports1.png_1275714225.png", Sky Sports 1 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/5.ch
 #EXTINF:-1,link 2
-http://94.194.125.111:8001/1:0:1:1076:7E5:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,link 3
 http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,link 4
-http://5.81.13.247:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,link 5
+#EXTINF:-1,link 3
 http://109.147.222.143:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/skygo/SkySports2.png_1284051362.png", Sky Sports 2 
-http://217.23.4.192:7070/contact…/spcentral@outlook.com/6.ch
-#EXTINF:-1,link 2
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/15.ch
-#EXTINF:-1,link 3
-http://109.147.222.143:8001/1:0:1:107E:7EA:2:11A0000:0:0:0:
+http://86.142.127.20:8001/1:0:1:1581:7EA:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-3.png", Sky Sports 3 
 http://217.23.4.192:7070/contact…/spcentral@outlook.com/7.ch
 #EXTINF:-1,link 2
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/16.ch
-#EXTINF:-1,link 3
-http://94.194.125.111:8001/1:0:1:107B:7E5:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,link 4
 http://109.147.222.143:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/skygo/SkySports4.png_1282085156.png", Sky Sports 4 
-http://217.23.4.192:7070/contact…/spcentral@outlook.com/8.ch
-#EXTINF:-1,link 2
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/17.ch
-#EXTINF:-1,link 3
-http://94.194.125.111:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::Sky
-#EXTINF:-1,link 4
-http://109.147.222.143:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
+http://151.230.231.48:8001/1:0:1:1519:7E7:2:11A0000:0:0:0::404
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-5.png", Sky Sports 5 
-http://217.23.4.192:7070/contact…/spcentral@outlook.com/9.ch
-#EXTINF:-1,link 2
-http://94.194.125.111:8001/1:0:1:517:7DB:2:11A0000:0:0:0::Sky 
-#EXTINF:-1,link 3
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/18.ch
-#EXTINF:-1,link 4
-http://5.81.13.247:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
-#EXTINF:-1,link 5
-http://109.147.222.143:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
+http://86.142.127.20:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://firesticks4u.com/addon/images/boxnation.png", BoxNation
 http://176.27.194.251:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
