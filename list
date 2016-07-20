@@ -68,8 +68,6 @@ http://176.27.194.251:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1 link 2
 http://86.142.127.20:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png", Premier Sports
-http://94.194.125.111:8001/1:0:1:C7A9:817:2:11A0000:0:0:0: Premier Sports
-#EXTINF:-1,link 2
 http://86.142.127.20:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo.png", MUTV
 http://90.255.74.7:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
