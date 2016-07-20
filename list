@@ -10,7 +10,7 @@ http://151.230.231.48:8001/1:0:1:189E:7FD:2:11A0000:0:0:0::102 - BBC Two Eng
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/ITV1_logo_2010.png/revision/latest?cb=20100420153725", ITV
 http://151.230.231.48:8001/1:0:1:27B0:805:2:11A0000:0:0:0::103 - ITV
 #EXTM3U 
-#EXTINF:-1 tvh-logo="http://logos.streamsites.eu/2248_channel-4-live_overview.png", channel 4
+#EXTINF:-1 tvh-logo="http://artandsci.co.uk/wp-content/uploads/2015/04/Channel-4.png", channel 4
 http://151.230.231.48:8001/1:0:1:23FE:7F9:2:11A0000:0:0:0::104 - Channel 4
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6p6VF4qGdfHxZVl9B6mbNa3xpBHw3Ygh-yFGOxLlaNQ6PSCq4IRya7Y0", Channel 5
