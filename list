@@ -81,17 +81,17 @@ http://109.147.222.143:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
 http://86.142.127.20:8001/1:0:1:D025:909:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://90.255.74.7:8001/1:0:1:D026:909:2:11A0000:0:0:0:
-#EXTINF:-1,Box Nation
-http://5.81.13.247:8001/1:0:1:D368:830:2:11A0000:0:0:0: 
 #EXTINF:-1 tvg-logo="https://www.productsandservices.bt.com/products/lib/img/packages/tv/btsporteuro.png", BTEurope Sport 
 http://90.255.74.7:8001/1:0:1:D7DC:840:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://5.81.13.247:8001/1:0:1:D7AB:840:2:11A0000:0:0:0:
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/eurosport.png_614575750.png", Eurosport 1
 http://90.255.74.7:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,Eurosport 2
+http://81.148.223.221:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png", Eurosport 2
 http://90.255.74.7:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
-#EXTINF:-1,Setanta Ireland
+http://81.148.223.221:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-logo="http://my.tvguide.co.uk/channel_logos/366.png", Setanta Ireland
 http://topiptv.net:5890/live/solo/solo/281.ts
 #EXTINF:-1,link 2
 http://109.147.222.143:8001/1:0:1:C7A7:817:2:11A0000:0:0:0:
