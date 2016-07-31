@@ -160,25 +160,28 @@ http://109.147.222.143:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://izitv.tv/img/channels/sky_movies_crime.png",  SkyMoviesCrime&amp;Thriller
 http://globalstream.noip.us:8000/live/test/test/760.ts
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130902215711_channelsbig.png", Sky Thriller 
-http://94.194.125.111:8001/1:0:1:1136:7DC:2:11A0000:0:0:0::Sky Thriller
+http://94.194.125.111:8001/1:0:1:1136:7DC:2:11A0000:0:0:0: Sky Thriller
+http://81.131.247.74:8001/1:0:1:1136:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,UK=Sky Movies Scifi / Horror HD
 http://globalstream.noip.us:8000/live/test/test/706.ts
 #EXTINF:-1,Sky ScFi/Horror SD
-http://94.194.125.111:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0::Sky ScFi/Horror
+http://94.194.125.111:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0: Sky ScFi/Horror
+http://81.131.247.74:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://bit.ly/2aq5OSn", Sky Premiere
-http://109.147.222.143:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
+http://81.131.247.74:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 3
 http://90.255.74.7:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,Sky Prem+1
 http://109.147.222.143:8001/1:0:1:1135:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Family
-http://109.147.222.143:8001/1:0:1:1133:7DC:2:11A0000:0:0:0:
+http://81.131.247.74:8001/1:0:1:1135:7DC:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-logo="http://goo.gl/d0dr9U" Sky Family
+http://81.131.247.74:8001/1:0:1:1133:7DC:2:11A0000:0:0:0::
 #EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:1133:7DC:2:11A0000:0:0:0::
-#EXTINF:-1,SKYMOVIES_COMEDY
-http://globalstream.noip.us:8000/live/test/test/701.ts
+#EXTINF:-1 tvg-logo="http://goo.gl/671ADu" SKYMOVIES_COMEDY
+http://81.131.247.74:8001/1:0:1:10CF:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:10CF:7DC:2:11A0000:0:0:0::Sky Comedy
 #EXTINF:-1,link 3
@@ -206,13 +209,14 @@ http://109.147.222.143:8001/1:0:1:157E:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,Sky Action
 http://90.255.74.7:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
-http://109.147.222.143:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Hits
+http://81.131.247.74:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-logo="http://goo.gl/87hhdT" Sky Hits
 http://109.147.222.143:8001/1:0:1:1658:7E5:2:11A0000:0:0:0:
+http://81.131.247.74:8001/1:0:1:1658:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,Tom Cruise
 http://109.147.222.143:8001/1:0:1:1612:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Disney 
-http://109.147.222.143:8001/1:0:1:10D4:7DC:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-logo="https://goo.gl/u9MpBX" Sky Disney 
+http://81.131.247.74:8001/1:0:1:10D4:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,Sky ScFi/Horror
 http://109.147.222.143:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0:
 
