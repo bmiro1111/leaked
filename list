@@ -4,41 +4,41 @@ EXTINF:-1 , [COLOR red] --getting deleted soon--[/COLOR]
 #EXTINF:-1 , [COLOR green] --Entertainment--[/COLOR] 
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://www.htpcmania.com/logos/BBC%20ONE.png", BBC One 
-http://151.230.231.48:8001/1:0:1:1933:7FF:2:11A0000:0:0:0::101 - BBC One 
+http://176.27.194.251:8001/1:0:19:1B1D:802:2:11A0000:0:0:0:  - BBC One 
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://dev.berovbros.com/list/list/Put%20contents%20in%20dev_hdd0/logos/bbc.two.png", BBC Two Eng
-http://151.230.231.48:8001/1:0:1:189E:7FD:2:11A0000:0:0:0::102 - BBC Two Eng
+http://176.27.194.251:8001/1:0:19:1B1C:802:2:11A0000:0:0:0: - BBC Two Eng
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/8/8e/ITV1_logo_2010.png/revision/latest?cb=20100420153725", ITV
-http://151.230.231.48:8001/1:0:1:27B0:805:2:11A0000:0:0:0::103 - ITV
+http://176.27.194.251:8001/1:0:19:5104:80F:2:11A0000:0:0:0: - ITV
 #EXTM3U 
 #EXTINF:-1 tvh-logo="http://artandsci.co.uk/wp-content/uploads/2015/04/Channel-4.png", channel 4
-http://151.230.231.48:8001/1:0:1:23FE:7F9:2:11A0000:0:0:0::104 - Channel 4
+http://176.27.194.251:8001/1:0:19:52D0:814:2:11A0000:0:0:0: - Channel 4
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6p6VF4qGdfHxZVl9B6mbNa3xpBHw3Ygh-yFGOxLlaNQ6PSCq4IRya7Y0", Channel 5
-http://151.230.231.48:8001/1:0:1:1E15:809:2:11A0000:0:0:0::105 - Channel 5
+http://176.27.194.251:8001/1:0:1:1E15:809:2:11A0000:0:0:0:  - Channel 5
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/lostpedia/images/9/93/800px-SKYONE.png/revision/latest?cb=20110602135059", Sky1
-http://151.230.231.48:8001/1:0:1:1656:7E5:2:11A0000:0:0:0::106 - Sky1
+http://176.27.194.251:8001/1:0:1:1656:7E5:2:11A0000:0:0:0: - Sky1
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/charmed/images/0/07/Sky_living.png/revision/latest?cb=20110726173921", Sky Living
-http://151.230.231.48:8001/1:0:1:1653:7EA:2:11A0000:0:0:0::107 - Sky Living
+http://176.27.194.251:8001/1:0:1:1653:7EA:2:11A0000:0:0:0: - Sky Living
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT34d3Rwf8FtxBNjjCUgptWpXKfTj6bYoQdt7b4g4EVRJf4_9XQAyW64LU", Sky Atlantic
 #EXTVLCOPT:program=5711
-http://151.230.231.48:8001/1:0:1:164F:7E7:2:11A0000:0:0:0::108 - Sky Atlantic
+http://176.27.194.251:8001/1:0:1:164F:7E7:2:11A0000:0:0:0: - Sky Atlantic
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UKTV_channel_W_logo.png", W
-http://151.230.231.48:8001/1:0:1:1978:7E6:2:11A0000:0:0:0::109 - W
+http://176.27.194.251:8001/1:0:1:1978:7E6:2:11A0000:0:0:0: - W
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/ukgold.png",- GOLD
-http://151.230.231.48:8001/1:0:1:1968:7E6:2:11A0000:0:0:0::110 - GOLD
+http://176.27.194.251:8001/1:0:1:1968:7E6:2:11A0000:0:0:0: - GOLD
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p22015091774.png", Dave
-http://151.230.231.48:8001/1:0:1:196A:7E6:2:11A0000:0:0:0::111 - Dave
+http://176.27.194.251:8001/1:0:1:196A:7E6:2:11A0000:0:0:0: - Dave
  #EXTM3U 
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/Syfy.png_63769838.png", syfy
-http://151.230.231.48:8001/1:0:1:CC1A:83D:2:11A0000:0:0:0::114 - Syfy
+http://176.27.194.251:8001/1:0:1:CC1A:83D:2:11A0000:0:0:0: - Syfy
 
 
 
@@ -106,8 +106,6 @@ http://109.147.222.143:8001/1:0:1:C7A7:817:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://streamznow.com/wp-content/uploads/2016/02/BT-Sport-1-TV-Live-Stream-210x142.png", BT Sport 1
 http://81.148.223.221:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
-http://151.230.231.48:8001/1:0:1:D7A5:840:2:11A0000:0:0:0::413
-#EXTINF:-1,link 3
 http://176.27.194.251:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HMnkivuGYEY/VsOoqdRDnmI/AAAAAAAAM14/Htgixxy5XKM/s640/bt-sport-2.png", BT Sport 2 
 http://81.148.223.221:8001/1:0:1:D020:909:2:11A0000:0:0:0:
