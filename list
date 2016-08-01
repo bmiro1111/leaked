@@ -137,13 +137,9 @@ http://94.194.125.111:8001/1:0:1:1839:7D9:2:11A0000:0:0:0::Discovery
 #EXTINF:-1,link 4
 http://176.27.194.251:8001/1:0:1:1839:7D9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_5649_2_31784.png", Disc.Turbo
-http://109.147.222.143:8001/1:0:1:1841:7D9:2:11A0000:0:0:0:
-#EXTINF:-1,link 2
-http://94.194.125.111:8001/1:0:1:1841:7D9:2:11A0000:0:0:0::Disc.Turbo
+http://176.27.194.251:8001/1:0:1:1841:7D9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://fusion.ddmcdn.com/kids/uploads/Animal-Planet-Guess-the-Animals-Quiz.png", Animal Planet
-http://109.147.222.143:8001/1:0:1:183A:7D9:2:11A0000:0:0:0:
-#EXTINF:-1,link 2
-http://94.194.125.111:8001/1:0:1:183A:7D9:2:11A0000:0:0:0::
+http://176.27.194.251:8001/1:0:1:183A:7D9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.magiceyemarketing.com/wp-content/uploads/2013/06/nat-geo-140x150.png", National Geographic
 http://globalstream.noip.us:8000/live/test/test/729.ts
 #EXTINF:-1,link 2
