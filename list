@@ -1,5 +1,4 @@
 
-EXTINF:-1 , [COLOR red] --getting deleted soon--[/COLOR] 
 #EXTM3U 
 #EXTINF:-1 , [COLOR green] --Entertainment--[/COLOR] 
 #EXTM3U 
@@ -52,11 +51,11 @@ http://90.255.74.7:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,Sky Sports F1
 http://109.147.222.143:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://stage-origin-products.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/SkySports1.png_1275714225.png", Sky Sports 1 
-http://217.23.4.192:7070/contact…/spcentral@outlook.com/5.ch
+http://81.152.61.80:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,link 3
-http://109.147.222.143:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
+http://176.27.194.251:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/skygo/SkySports2.png_1284051362.png", Sky Sports 2 
 http://176.27.194.251:8001/1:0:1:1581:7EA:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-3.png", Sky Sports 3 
@@ -85,6 +84,8 @@ http://90.255.74.7:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
 http://90.255.74.7:8001/1:0:1:D3C6:829:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://watchfreelivetv.com/wp-content/uploads/2015/10/lfctv.png",Liverpool FC TV
 http://176.27.194.251:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
+http://81.152.61.80:8001/1:0:19:F05:7D2:2:11A0000:0:0:0:
 #EXTINF:-1 tv-logo="http://seenit.co.uk/wp-content/uploads/BT-ESPN.png", BT Sport//ESPN
 http://86.142.127.20:8001/1:0:1:D025:909:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
