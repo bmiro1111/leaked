@@ -113,7 +113,7 @@ http://81.148.223.221:8001/1:0:1:D020:909:2:11A0000:0:0:0:
 #EXTINF:-1 , [COLOR blue] --discovery--[/COLOR] 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG", Disc.Science
-http://94.194.125.111:8001/1:0:1:183E:7D9:2:11A0000:0:0:0::Disc.Science
+http://176.27.194.251:8001/1:0:1:183E:7D9:2:11A0000:0:0:0: Disc.Science
 #EXTINF:-1,link 2
 http://5.81.13.247:8001/1:0:1:183E:7D9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/en/6/6d/Investigation-Discovery.png", Discovery Investigation 
@@ -123,7 +123,7 @@ http://5.81.13.247:8001/1:0:1:12C2:7E9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzvPdVqKlxHw6z95Jz-M_-JqQKVAAu4y55XhNRoKoIAUj-5-gU", Discovery History
 http://81.148.223.221:8001/1:0:1:122D:7E9:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
-http://94.194.125.111:8001/1:0:1:183F:7D9:2:11A0000:0:0:0::Disc.History
+http://176.27.194.251:8001/1:0:1:183F:7D9:2:11A0000:0:0:0: :Disc.History
 #EXTINF:-1,link 3
 http://5.81.13.247:8001/1:0:1:183F:7D9:2:11A0000:0:0:0:
 #EXTINF:-1,link 4
@@ -134,6 +134,8 @@ http://109.147.222.143:8001/1:0:1:1839:7D9:2:11A0000:0:0:0:
 http://topiptv.net:5890/live/solo/solo/289.ts
 #EXTINF:-1,link 3
 http://94.194.125.111:8001/1:0:1:1839:7D9:2:11A0000:0:0:0::Discovery
+#EXTINF:-1,link 4
+http://176.27.194.251:8001/1:0:1:1839:7D9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_5649_2_31784.png", Disc.Turbo
 http://109.147.222.143:8001/1:0:1:1841:7D9:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
@@ -145,9 +147,14 @@ http://94.194.125.111:8001/1:0:1:183A:7D9:2:11A0000:0:0:0::
 #EXTINF:-1 tvg-logo="http://www.magiceyemarketing.com/wp-content/uploads/2013/06/nat-geo-140x150.png", National Geographic
 http://globalstream.noip.us:8000/live/test/test/729.ts
 #EXTINF:-1,link 2
-http://94.194.125.111:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0::
+http://94.194.125.111:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0:
 #EXTINF:-1,link 3
+http://176.27.194.251:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0:
+#EXTINF:-1,link 4
 http://109.147.222.143:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0:
+#EXTINF:-1,link 5
+http://176.27.194.251:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0:
+
 
 
 
