@@ -13,20 +13,19 @@ http://81.131.247.74:8001/1:0:19:52D0:814:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6p6VF4qGdfHxZVl9B6mbNa3xpBHw3Ygh-yFGOxLlaNQ6PSCq4IRya7Y0", Channel 5
 http://176.27.194.251:8001/1:0:1:1E15:809:2:11A0000:0:0:0:  
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/lostpedia/images/9/93/800px-SKYONE.png/revision/latest?cb=20110602135059", Sky1
-http://176.27.194.251:8001/1:0:1:1656:7E5:2:11A0000:0:0:0: 
+http://81.131.247.74:8001/1:0:1:1656:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/charmed/images/0/07/Sky_living.png/revision/latest?cb=20110726173921", Sky Living
-http://176.27.194.251:8001/1:0:1:1653:7EA:2:11A0000:0:0:0: 
+http://81.131.247.74:8001/1:0:1:1653:7EA:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT34d3Rwf8FtxBNjjCUgptWpXKfTj6bYoQdt7b4g4EVRJf4_9XQAyW64LU", Sky Atlantic
-#EXTVLCOPT:program=5711
-http://176.27.194.251:8001/1:0:1:164F:7E7:2:11A0000:0:0:0: 
+http://81.131.247.74:8001/1:0:1:164F:7E7:2:11A0000:0:0:0: 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UKTV_channel_W_logo.png", W
 http://176.27.194.251:8001/1:0:1:1978:7E6:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://parker1.co.uk/myth/icons/tv/ukgold.png",- GOLD
-http://176.27.194.251:8001/1:0:1:1968:7E6:2:11A0000:0:0:0: 
+http://81.131.247.74:8001/1:0:1:1968:7E6:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p22015091774.png", Dave
-http://176.27.194.251:8001/1:0:1:196A:7E6:2:11A0000:0:0:0: 
+http://81.131.247.74:8001/1:0:1:196A:7E6:2:11A0000:0:0:0: 
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/Syfy.png_63769838.png", syfy
-http://176.27.194.251:8001/1:0:1:CC1A:83D:2:11A0000:0:0:0: 
+http://81.131.247.74:8001/1:0:1:CC1A:83D:2:11A0000:0:0:0:
 
 
 
