@@ -277,35 +277,73 @@ http://31.48.22.238:8001/1:0:1:C418:813:2:11A0000:0:0:0:
 
 #EXTINF:-1 , [COLOR white] --usa--[/COLOR] 
 #EXTM3U
-#EXTINF:-1,UK=CTHStadium5
-http://globalstream.noip.us:8000/live/test/test/775.ts
-#EXTINF:-1,UK=CTHStadium4
-http://globalstream.noip.us:8000/live/test/test/774.ts
-#EXTINF:-1,UK=CTHStadium3
-http://globalstream.noip.us:8000/live/test/test/773.ts
-#EXTINF:-1,UK=CTHStadium2
-http://globalstream.noip.us:8000/live/test/test/772.ts
-#EXTINF:-1,UK=CTHStadium1
-http://globalstream.noip.us:8000/live/test/test/771.ts
-#EXTINF:-1,NBCSN
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/44.ch
-#EXTINF:-1,USA Network
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/45.ch
-#EXTINF:-1,Bein Sports USA HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/72.ch
-#EXTINF:-1,Bein Sports 11 HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/70.ch
-#EXTINF:-1,Bein Sports 12 HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/71.ch
-#EXTINF:-1,ESPN HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/66.ch
-#EXTINF:-1,ESPN 2 HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/67.ch
-#EXTINF:-1,Fox Sports 1 HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/62.ch
-#EXTINF:-1,Fox Sports 2 HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/63.ch
-#EXTINF:-1,NFL Network HD
-http://217.23.4.192:7070/contac…/spcentral@outlook.com/73.ch
+#EXTINF:-1,USA_ESPN
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1477.ts
+#EXTINF:-1,USA_FOX_SPORT_2
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1484.ts
+#EXTINF:-1,USA_NBC
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1485.ts
+#EXTINF:-1,USA_FOX_SPORT_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1483.ts
+#EXTINF:-1,USA_NBA_TV
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1486.ts
+#EXTINF:-1,USA_NFL
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1492.ts
+#EXTINF:-1,USA_CBS_NEWS_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1491.ts
+#EXTINF:-1,USA_VERSUS_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1490.ts
+#EXTINF:-1,USA_DISCOVERY_SHOWCASE_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1489.ts
+#EXTINF:-1,USA_DISCOVERY_CHANNEL_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1488.ts
+#EXTINF:-1,USA_ID
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1487.ts
+#EXTINF:-1,USA_TSN_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1482.ts
+#EXTINF:-1,USA_TSN_2
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1481.ts
+#EXTINF:-1,USA_TSN_3
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1480.ts
+#EXTINF:-1,USA_TSN_4
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1479.ts
+#EXTINF:-1,USA_TSN_5
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1478.ts
+#EXTINF:-1,USA_WORLD_FASHION_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4175.ts
+#EXTINF:-1,USA_SPORT_NET_360
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4168.ts
+#EXTINF:-1,USA_SPORT_NET_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4167.ts
+#EXTINF:-1,USA_SHOWTIME_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4176.ts
+#EXTINF:-1,USA_REDBULL_TV
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4166.ts
+#EXTINF:-1,USA_PLANET_GREEN
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4177.ts
+#EXTINF:-1,USA_NBC_GOLF
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4169.ts
+#EXTINF:-1,USA_NASA_TV_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4178.ts
+#EXTINF:-1,USA_MUTE_TV
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4179.ts
+#EXTINF:-1,USA_MIAMI_TV
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4180.ts
+#EXTINF:-1,USA_FLORIDA_CHANNEL
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4170.ts
+#EXTINF:-1,USA_FASHION_ONE
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4181.ts
+#EXTINF:-1,USA_BYU_SPORTS_TV_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4174.ts
+#EXTINF:-1,USA_ASTRO_SUPERSPORT_3
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4173.ts
+#EXTINF:-1,USA_ASTRO_SUPERSPORT_2
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4172.ts
+#EXTINF:-1,USA_ASTRO_SUPERSPORT_1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4171.ts
+#EXTINF:-1,USA_AFN_PULSE
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4182.ts
+#EXTINF:-1,USA_AFN_MOVIE
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/4183.ts
 
 
