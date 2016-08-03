@@ -72,7 +72,7 @@ http://176.27.194.251:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 http://86.142.127.20:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1 link 3
 http://86.30.201.4:8001/1:0:1:D368:830:2:11A0000:0:0:0:
-#EXTINF:-1 tvg-logo="https://icenationuk.files.wordpress.com/2013/04/premier-sports-logo-full-res-master.png", Premier Sports
+#EXTINF:-1 tvg-logo="http://www.loverugbyleague.com/_media/photo_915327.png", Premier Sports
 http://176.27.194.251:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo.png", MUTV
 http://90.255.74.7:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
@@ -82,13 +82,9 @@ http://86.30.201.4:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
 http://90.255.74.7:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
 #EXTINF:-1 link 2
 http://86.30.201.4:8001/1:0:1:1655:7EA:2:11A0000:0:0:0
-#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/app/themes/freeview/assets/images/channels/entertainment/nottstv.png", Notts TV
-http://90.255.74.7:8001/1:0:1:D3C6:829:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://watchfreelivetv.com/wp-content/uploads/2015/10/lfctv.png",Liverpool FC TV
 http://176.27.194.251:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
-http://81.152.61.80:8001/1:0:19:F05:7D2:2:11A0000:0:0:0:
-#EXTINF:-1,link 3
 http://86.30.201.4:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
 #EXTINF:-1 tv-logo="http://seenit.co.uk/wp-content/uploads/BT-ESPN.png", BT Sport//ESPN
 http://86.30.201.4:8001/1:0:1:D025:909:2:11A0000:0:0:0:
@@ -182,11 +178,11 @@ http://176.27.194.251:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0:
 http://globalstream.noip.us:8000/live/test/test/760.ts
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130902215711_channelsbig.png", Sky Thriller 
 http://81.131.247.74:8001/1:0:1:1136:7DC:2:11A0000:0:0:0:   Sky Thriller
-#EXTINF:-1,UK=Sky Movies Scifi / Horror HD
-http://globalstream.noip.us:8000/live/test/test/706.ts
-#EXTINF:-1,Sky ScFi/Horror SD
+#EXTINF:-1, tvg-logo="https://www.expatvision.tv/media/channel_logos//horror_1426076916.jpg", Sky ScFi/Horror SD
 http://94.194.125.111:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0: Sky ScFi/Horror
+#EXTINF:-1,link 2
 http://81.131.247.74:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
 #EXTINF:-1 tvg-logo="http://bit.ly/2aq5OSn", Sky Premiere
 http://81.131.247.74:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
@@ -195,6 +191,7 @@ http://94.194.125.111:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 http://90.255.74.7:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,Sky Prem+1
 http://109.147.222.143:8001/1:0:1:1135:7DC:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
 http://81.131.247.74:8001/1:0:1:1135:7DC:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://goo.gl/d0dr9U" Sky Family
 http://81.131.247.74:8001/1:0:1:1133:7DC:2:11A0000:0:0:0::
