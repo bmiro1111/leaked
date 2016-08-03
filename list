@@ -209,11 +209,11 @@ http://109.147.222.143:8001/1:0:1:1136:7DC:2:11A0000:0:0:0:
 http://94.194.125.111:8001/1:0:1:10D2:7DC:2:11A0000:0:0:0::Sky Select
 #EXTINF:-1,link 2
 http://109.147.222.143:8001/1:0:1:10D2:7DC:2:11A0000:0:0:0:
-#EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-drama-romance.png", SkyDramaRomance
+#EXTINF:-1, SkyDramaRomance
 http://94.194.125.111:8001/1:0:1:157E:7DC:2:11A0000:0:0:0: SkyDramaRom
 #EXTINF:-1,link 2
 http://109.147.222.143:8001/1:0:1:157E:7DC:2:11A0000:0:0:0:
-#EXTINF:-1, tvg-logo="http://image1.tvdigital.de/files/station_logos/613.png", sky action
+#EXTINF:-1, sky action
 http://90.255.74.7:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://81.131.247.74:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
