@@ -36,7 +36,7 @@ http://81.131.247.74:8001/1:0:1:CC1A:83D:2:11A0000:0:0:0:
 #EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="http://web.static.nowtv.com/images/sportsland/logos/sports_channel_sf1v2.png", Sky Sports F1
 http://90.255.74.7:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Sports F1
+#EXTINF:-1,Sky link 2
 http://109.147.222.143:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://stage-origin-products.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/SkySports1.png_1275714225.png", Sky Sports 1 
 http://81.152.61.80:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
@@ -46,36 +46,52 @@ http://90.255.74.7:8001/1:0:1:107D:7E5:2:11A0000:0:0:0:
 http://81.131.247.74:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/skygo/SkySports2.png_1284051362.png", Sky Sports 2 
 http://176.27.194.251:8001/1:0:1:1581:7EA:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
+http://86.30.201.4:8001/1:0:1:1070:7E5:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-3.png", Sky Sports 3 
 http://81.148.223.221:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://176.27.194.251:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:107C:7DB:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/skygo/SkySports4.png_1282085156.png", Sky Sports 4 
 http://81.148.223.221:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://176.27.194.251:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:151B:7DB:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-sports-5.png", Sky Sports 5 
 http://81.148.223.221:8001/1:0:1:517:7DB:2:11A0000:0:0:0::
 #EXTINF:-1,link 2
 http://176.27.194.251:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:520:7EA:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://firesticks4u.com/addon/images/boxnation.png", BoxNation
 http://176.27.194.251:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1 link 2
 http://86.142.127.20:8001/1:0:1:D368:830:2:11A0000:0:0:0:
+#EXTINF:-1 link 3
+http://86.30.201.4:8001/1:0:1:D368:830:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://icenationuk.files.wordpress.com/2013/04/premier-sports-logo-full-res-master.png", Premier Sports
 http://176.27.194.251:8001/1:0:1:C7A9:817:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo.png", MUTV
 http://90.255.74.7:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
+#EXTINF:-1 link 2
+http://86.30.201.4:8001/1:0:1:12C8:7E9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/ChelseaTVLogo.png/150px-ChelseaTVLogo.png", Chelsea TV
 http://90.255.74.7:8001/1:0:1:1655:7EA:2:11A0000:0:0:0:
+#EXTINF:-1 link 2
+http://86.30.201.4:8001/1:0:1:1655:7EA:2:11A0000:0:0:0
 #EXTINF:-1 tvg-logo="https://www.freeview.co.uk/app/themes/freeview/assets/images/channels/entertainment/nottstv.png", Notts TV
 http://90.255.74.7:8001/1:0:1:D3C6:829:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://watchfreelivetv.com/wp-content/uploads/2015/10/lfctv.png",Liverpool FC TV
 http://176.27.194.251:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://81.152.61.80:8001/1:0:19:F05:7D2:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:F06:7D7:2:11A0000:0:0:0:
 #EXTINF:-1 tv-logo="http://seenit.co.uk/wp-content/uploads/BT-ESPN.png", BT Sport//ESPN
-http://86.142.127.20:8001/1:0:1:D025:909:2:11A0000:0:0:0:
+http://86.30.201.4:8001/1:0:1:D025:909:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://90.255.74.7:8001/1:0:1:D026:909:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://www.productsandservices.bt.com/products/lib/img/packages/tv/btsporteuro.png", BTEurope Sport 
@@ -84,10 +100,16 @@ http://90.255.74.7:8001/1:0:1:D7DC:840:2:11A0000:0:0:0:
 http://5.81.13.247:8001/1:0:1:D7AB:840:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/eurosport.png_614575750.png", Eurosport 1
 http://90.255.74.7:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
 http://81.148.223.221:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:1651:7E7:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Eurosport2.png", Eurosport 2
 http://90.255.74.7:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,link 2
 http://81.148.223.221:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="http://my.tvguide.co.uk/channel_logos/366.png", Setanta Ireland
 http://176.27.194.251:8001/1:0:1:C7A7:817:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
@@ -96,10 +118,14 @@ http://109.147.222.143:8001/1:0:1:C7A7:817:2:11A0000:0:0:0:
 http://81.148.223.221:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://176.27.194.251:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:D7A5:840:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HMnkivuGYEY/VsOoqdRDnmI/AAAAAAAAM14/Htgixxy5XKM/s640/bt-sport-2.png", BT Sport 2 
 http://81.148.223.221:8001/1:0:1:D020:909:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://176.27.194.251:8001/1:0:1:D021:909:2:11A0000:0:0:0:
+#EXTINF:-1,link 3
+http://86.30.201.4:8001/1:0:1:D020:909:2:11A0000:0:0:0:
 
 
 
