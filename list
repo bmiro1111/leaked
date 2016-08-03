@@ -177,18 +177,18 @@ http://176.27.194.251:8001/1:0:1:12C5:7E9:2:11A0000:0:0:0:
 #EXTINF:-1 tvg-logo="https://izitv.tv/img/channels/sky_movies_crime.png",  SkyMoviesCrime&amp;Thriller
 http://globalstream.noip.us:8000/live/test/test/760.ts
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130902215711_channelsbig.png", Sky Thriller 
-http://81.131.247.74:8001/1:0:1:1136:7DC:2:11A0000:0:0:0:   Sky Thriller
-#EXTINF:-1, tvg-logo="https://www.expatvision.tv/media/channel_logos//horror_1426076916.jpg", Sky ScFi/Horror SD
+http://81.131.247.74:8001/1:0:1:1136:7DC:2:11A0000:0:0:0:  
+#EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-SCIFI-HORROR.png", Sky ScFi/Horror SD
 http://94.194.125.111:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0: Sky ScFi/Horror
 #EXTINF:-1,link 2
 http://81.131.247.74:8001/1:0:1:10D0:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,link 3
-#EXTINF:-1 tvg-logo="http://bit.ly/2aq5OSn", Sky Premiere
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-PREMIERE.png", Sky Premiere
 http://81.131.247.74:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://94.194.125.111:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 3
 http://90.255.74.7:8001/1:0:1:1134:7DC:2:11A0000:0:0:0:
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-PREMIERE.png", Sky Premiere+1
 #EXTINF:-1,Sky Prem+1
 http://109.147.222.143:8001/1:0:1:1135:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
@@ -209,21 +209,15 @@ http://globalstream.noip.us:8000/live/test/test/1132.ts
 http://94.194.125.111:8001/1:0:1:1136:7DC:2:11A0000:0:0:0::Sky Thriller
 #EXTINF:-1,link 3
 http://109.147.222.143:8001/1:0:1:1136:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Movies Select HD
-http://globalstream.noip.us:8000/live/test/test/1131.ts
-#EXTINF:-1,link 2
-http://topiptv.net:5890/live/solo/solo/257.
-#EXTINF:-1,link 3
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-SELECT.png", Sky Movies Select 
 http://94.194.125.111:8001/1:0:1:10D2:7DC:2:11A0000:0:0:0::Sky Select
-#EXTINF:-1,link 4
+#EXTINF:-1,link 2
 http://109.147.222.143:8001/1:0:1:10D2:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Movies Drama HD
-http://globalstream.noip.us:8000/live/test/test/1129.ts
-#EXTINF:-1,SkyDramaRom
+#EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-sky-movies-drama-romance.png", SkyDramaRom
 http://94.194.125.111:8001/1:0:1:157E:7DC:2:11A0000:0:0:0::SkyDramaRom
 #EXTINF:-1,link 2
 http://109.147.222.143:8001/1:0:1:157E:7DC:2:11A0000:0:0:0:
-#EXTINF:-1,Sky Action
+#EXTINF:-1, tvg-logo="http://image1.tvdigital.de/files/station_logos/613.png", sky action
 http://90.255.74.7:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
 #EXTINF:-1,link 2
 http://81.131.247.74:8001/1:0:1:10CE:7DC:2:11A0000:0:0:0:
