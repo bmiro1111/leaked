@@ -3,9 +3,9 @@ Free for all
 
 EXTINF:-1,UK:CNN_NEWS
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/2383.ts
-tvg-logo="http://hub.tv-ark.org.uk/images/itv/itv1_hd/itv1hd_images/itv1_hd_bb4_2010_t1076.jpg" UK:ITV1
+tvg-logo="http://hub.tv-ark.org.uk/images/itv/itv1_hd/itv1hd_images/itv1_hd_bb4_2010_t1076.jpg",UK:ITV1
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/447.ts
-#EXTINF:-1,UK:ITV2
+#EXTINF:-1, tvg-logo="http://static6.tellymixcdn.com/wp-content/blogs.dir/1/files/2013/02/ITV2-Logo-new-2013.jpg",UK:ITV2
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/448.ts
 #EXTINF:-1,UK:ITV3
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/321.ts
