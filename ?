@@ -1,13 +1,13 @@
 # grouplist-
 Free for all
 
-EXTINF:-1, tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51GpoxZzzyL.png", UK:CNN_NEWS
+EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51GpoxZzzyL.png", UK:CNN_NEWS
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/2383.ts
 tvg-logo="http://hub.tv-ark.org.uk/images/itv/itv1_hd/itv1hd_images/itv1_hd_bb4_2010_t1076.jpg",UK:ITV1
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/447.ts
-#EXTINF:-1, tvg-logo="http://static6.tellymixcdn.com/wp-content/blogs.dir/1/files/2013/02/ITV2-Logo-new-2013.jpg",UK:ITV2
+#EXTINF:-1 tvg-logo="http://static6.tellymixcdn.com/wp-content/blogs.dir/1/files/2013/02/ITV2-Logo-new-2013.jpg",UK:ITV2
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/448.ts
-#EXTINF:-1, tvg-logo="http://image.guardian.co.uk/sys-images/Media/Pix/pictures/2006/01/09/ITV3logo300.jpg",UK:ITV3
+#EXTINF:-1 tvg-logo="http://image.guardian.co.uk/sys-images/Media/Pix/pictures/2006/01/09/ITV3logo300.jpg",UK:ITV3
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/321.ts
 #EXTINF:-1 tvg-logo+"http://image.guardian.co.uk/sys-images/Media/Pix/pictures/2006/01/09/ITV4logo300.jpg", UK:ITV4
 http://mediaipro.com:8000/live/edwkoYgN3M/O0o52h8KPw/320.ts
