@@ -1,0 +1,9 @@
+#EXTM3U -- bbc channels ---
+#EXTINF:-1 tvg-id="I133.39368464.microsoft.com" tvg-logo="Create.png" group-title="USA",Create
+http://192.168.1.5:5004/auto/v133/
+#EXTINF:-1 tvg-id="I688.39818575.microsoft.com" tvg-name="Cozi" tvg-logo="Cozi.png" group-title="USA",Cozi
+http://192.168.1.5:5004/auto/v688/
+#EXTINF:-1 tvg-id="I702.28459048.microsoft.com" tvg-logo="CBS.png" group-title="USA",CBS
+http://192.168.1.5:5004/auto/v702/
+#EXTINF:-1 tvg-id="I703.195990477.microsoft.com" tvg-name="ION" tvg-logo="ION.png" group-title="USA",ION
+http://192.168.1.5:5004/auto/v703
